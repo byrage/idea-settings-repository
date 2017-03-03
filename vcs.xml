@@ -1,0 +1,89 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-blast01.trumpia.com:9901/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-blast01.trumpia.com:9901" />
+          <option name="userName" value="logankim" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git@dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://logankim@dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://logankim@dev-blast01.trumpia.com:40/trumpia/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-blast01.trumpia.com:9901/devops/dev-ops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/developers/scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-blast01.trumpia.com:9901/developers/scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/trumpia/backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/backend/trumpia_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/app/subscriber-app-andy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/logankim/andy-publisher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/devops/scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/logankim/docker-personal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dev-blast01.trumpia.com:40/dba/trumpia-db.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="byrage" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://1.255.144.30:8002" />
+          <option name="userName" value="yw.choi" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\dev" />
+  </component>
+</application>

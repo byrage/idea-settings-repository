@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
+    <option name="defaultScopeName" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>build.gradle</mask>
+      <mask>*Test*</mask>
+      <mask>*.yaml</mask>
+      <mask>*.groovy</mask>
+      <mask>*.java</mask>
+      <mask>*Service*</mask>
+      <mask>*.yml</mask>
+      <mask>*.gradle</mask>
+      <mask>*Controller</mask>
+      <mask>*Controller.java</mask>
+      <mask>*Test*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
