@@ -19,10 +19,10 @@
       <mask>*.java</mask>
       <mask>*Service*</mask>
       <mask>*.yml</mask>
-      <mask>*.gradle</mask>
       <mask>*Controller</mask>
       <mask>*Controller.java</mask>
       <mask>*Test*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
