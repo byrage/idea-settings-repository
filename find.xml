@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
     <option name="defaultScopeName" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[skb-smart] - .../skb-smart/src/main/AndroidManifest.xml'" />
     <recentFileMasks>
       <mask>*.properties</mask>
