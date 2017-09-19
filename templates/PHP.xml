@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="loga" value="error_log(print_r(, true));" description="logging each element in array" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="log" value="error_log();" description="logging variable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

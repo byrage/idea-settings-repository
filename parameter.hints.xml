@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Ruby" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
+  </component>
+</application>
