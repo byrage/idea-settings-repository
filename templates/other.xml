@@ -4,12 +4,17 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pS" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
+  <template name="ps" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pI" value="private Integer " description="private Integer" toReformat="false" toShortenFQNames="true">
+  <template name="pi" value="private Integer " description="private Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="private LocalDate " description="private LocalDate" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
