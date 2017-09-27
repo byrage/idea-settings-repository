@@ -10,7 +10,6 @@
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>build.gradle</mask>
       <mask>*Test*</mask>
@@ -23,6 +22,13 @@
       <mask>*Controller.java</mask>
       <mask>*Test*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.css</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.ㅔ</mask>
+      <mask>!*.ㅔㅗㅔ</mask>
+      <mask>f</mask>
     </recentFileMasks>
   </component>
 </application>
