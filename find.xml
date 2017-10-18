@@ -3,22 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>build.gradle</mask>
-      <mask>*Test*</mask>
       <mask>*.yaml</mask>
       <mask>*.groovy</mask>
       <mask>*.java</mask>
       <mask>*Service*</mask>
       <mask>*.yml</mask>
-      <mask>*Controller</mask>
-      <mask>*Controller.java</mask>
       <mask>*Test*.java</mask>
       <mask>*.css</mask>
       <mask>!</mask>
@@ -26,14 +17,24 @@
       <mask>!*.</mask>
       <mask>!*.ㅔ</mask>
       <mask>!*.ㅔㅗㅔ</mask>
-      <mask>f</mask>
       <mask>(</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>f</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Conto</mask>
+      <mask>*Cont</mask>
+      <mask>*Contr</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.ja</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>
