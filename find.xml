@@ -3,27 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Impl.java" />
     <recentFileMasks>
-      <mask>*.yaml</mask>
-      <mask>*.groovy</mask>
-      <mask>*.java</mask>
-      <mask>*Service*</mask>
-      <mask>*.yml</mask>
-      <mask>*Test*.java</mask>
-      <mask>*.css</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.ㅔ</mask>
-      <mask>!*.ㅔㅗㅔ</mask>
-      <mask>(</mask>
-      <mask>*.js</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>f</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Conto</mask>
       <mask>*Cont</mask>
@@ -34,6 +16,25 @@
       <mask>*Controller.</mask>
       <mask>*Controller.ja</mask>
       <mask>*Controller.java</mask>
+      <mask>*re</mask>
+      <mask>*rep</mask>
+      <mask>*repo</mask>
+      <mask>*repois</mask>
+      <mask>*repoiso</mask>
+      <mask>*repoisot</mask>
+      <mask>*repoisotyr</mask>
+      <mask>*repoisoty</mask>
+      <mask>*</mask>
+      <mask>*I</mask>
+      <mask>*Im</mask>
+      <mask>*Imp</mask>
+      <mask>*Impl</mask>
+      <mask>*Impl.</mask>
+      <mask>*Impl.j</mask>
+      <mask>*Impl.jva</mask>
+      <mask>*Impl.jv</mask>
+      <mask>*Impl.ja</mask>
+      <mask>*Impl.java</mask>
     </recentFileMasks>
   </component>
 </application>
