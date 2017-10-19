@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Config.java" />
     <recentFileMasks>
-      <mask>f</mask>
-      <mask>*C</mask>
-      <mask>*Conto</mask>
-      <mask>*Cont</mask>
-      <mask>*Contr</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
       <mask>*Controller</mask>
       <mask>*Controller.</mask>
       <mask>*Controller.ja</mask>
@@ -34,6 +28,13 @@
       <mask>*Impl.jv</mask>
       <mask>*Impl.ja</mask>
       <mask>*Impl.java</mask>
+      <mask>C</mask>
+      <mask>Config</mask>
+      <mask>Config.</mask>
+      <mask>Config.j</mask>
+      <mask>Config.jav</mask>
+      <mask>Config.java</mask>
+      <mask>*Config.java</mask>
     </recentFileMasks>
   </component>
 </application>
