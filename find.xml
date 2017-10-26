@@ -4,17 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Impl.jv</mask>
-      <mask>*Impl.ja</mask>
-      <mask>*Impl.java</mask>
-      <mask>C</mask>
-      <mask>Config</mask>
-      <mask>Config.</mask>
-      <mask>Config.j</mask>
       <mask>Config.jav</mask>
       <mask>Config.java</mask>
       <mask>*Config.java</mask>
-      <mask>*</mask>
       <mask>*A</mask>
       <mask>*Ap</mask>
       <mask>*Api</mask>
@@ -34,6 +26,14 @@
       <mask>ShopOwnerFindRApi.java</mask>
       <mask>ShopOwnerFindReApi.java</mask>
       <mask>ShopOwnerFindRestApi.java</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*DTO</mask>
+      <mask>*DT</mask>
+      <mask>*Dto</mask>
+      <mask>*Dto.</mask>
+      <mask>*Dto.ja</mask>
+      <mask>*Dto.java</mask>
     </recentFileMasks>
   </component>
 </application>
