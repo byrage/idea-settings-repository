@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>Config.jav</mask>
-      <mask>Config.java</mask>
-      <mask>*Config.java</mask>
-      <mask>*A</mask>
-      <mask>*Ap</mask>
-      <mask>*Api</mask>
       <mask>*Api.J</mask>
       <mask>*Api.</mask>
       <mask>*Api.ja</mask>
@@ -26,7 +21,6 @@
       <mask>ShopOwnerFindRApi.java</mask>
       <mask>ShopOwnerFindReApi.java</mask>
       <mask>ShopOwnerFindRestApi.java</mask>
-      <mask>*</mask>
       <mask>*D</mask>
       <mask>*DTO</mask>
       <mask>*DT</mask>
@@ -34,6 +28,13 @@
       <mask>*Dto.</mask>
       <mask>*Dto.ja</mask>
       <mask>*Dto.java</mask>
+      <mask>f</mask>
+      <mask>*X</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

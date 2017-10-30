@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="AutoIndentLines" />
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
