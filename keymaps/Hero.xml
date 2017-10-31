@@ -125,10 +125,10 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
