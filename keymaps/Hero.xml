@@ -45,6 +45,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="CopyPaths" />
+  <action id="DatabaseView.ToolsPopup">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="DumpLookupElementWeights" />
   <action id="EditSource">
@@ -211,6 +215,10 @@
   <action id="Scala.Desugar" />
   <action id="Scala.RunWorksheet" />
   <action id="Scala.ShowImplicitParameters" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -237,10 +245,18 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ThePlugin.Issues.RecentlyOpen" />
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="Uml.NodeIntentions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.Log.CloseLogTabAction">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift alt h" />
