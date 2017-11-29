@@ -125,8 +125,8 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -146,6 +146,7 @@
   <action id="HideCoverage">
     <keyboard-shortcut first-keystroke="shift alt f6" />
   </action>
+  <action id="HippieCompletion" />
   <action id="IncrementalSearch" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
