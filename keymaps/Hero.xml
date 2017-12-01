@@ -102,6 +102,7 @@
   <action id="EditorSelectWord" />
   <action id="EditorToggleInsertState">
     <keyboard-shortcut first-keystroke="help" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="EditorUnSelectWord" />
   <action id="ExternalSystem_2e184846bizmoney-backoffice-ui7e3f37e7gulp_build">
