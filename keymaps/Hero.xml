@@ -100,6 +100,9 @@
   </action>
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="help" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="ExternalSystem_2e184846bizmoney-backoffice-ui7e3f37e7gulp_build">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
