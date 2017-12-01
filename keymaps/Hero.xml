@@ -127,6 +127,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
