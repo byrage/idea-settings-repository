@@ -1,5 +1,5 @@
 <templateSet group="SQL">
-  <template name="st" value="select top 10 * from " description="select top 50 rows" toReformat="false" toShortenFQNames="true">
+  <template name="st" value="select top 30 * from " description="select top 30 rows" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SQL" value="true" />
     </context>
@@ -9,7 +9,7 @@
       <option name="SQL" value="true" />
     </context>
   </template>
-  <template name="sts" value="select top 10 * from SbSvc.dbo." description="select top 50 rows from a [SbSvc] database" toReformat="false" toShortenFQNames="true">
+  <template name="sts" value="select top 30 * from SbSvc.dbo." description="select top 30 rows from a [SbSvc] database" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SQL" value="true" />
     </context>
