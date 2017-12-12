@@ -4,19 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Api.ja</mask>
-      <mask>*Api.java</mask>
-      <mask>Api.java</mask>
-      <mask>SApi.java</mask>
-      <mask>ShoApi.java</mask>
-      <mask>ShopApi.java</mask>
-      <mask>ShopOApi.java</mask>
-      <mask>ShopOwnerApi.java</mask>
-      <mask>ShopOwnerFApi.java</mask>
-      <mask>ShopOwnerFinApi.java</mask>
-      <mask>ShopOwnerFindApi.java</mask>
-      <mask>ShopOwnerFindRApi.java</mask>
-      <mask>ShopOwnerFindReApi.java</mask>
       <mask>ShopOwnerFindRestApi.java</mask>
       <mask>*D</mask>
       <mask>*DTO</mask>
@@ -30,10 +17,23 @@
       <mask>*.xml</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>c</mask>
+      <mask>ca</mask>
+      <mask>can</mask>
+      <mask>cance</mask>
+      <mask>canc</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Ca</mask>
+      <mask>*Canc</mask>
+      <mask>*Cancel</mask>
+      <mask>*Cancel*</mask>
+      <mask>*Cancel*.</mask>
+      <mask>*Cancel*.ja</mask>
+      <mask>*Cancel*.java</mask>
     </recentFileMasks>
   </component>
 </application>
