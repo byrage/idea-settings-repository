@@ -14,7 +14,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌃⌥⇧C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -31,6 +31,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Disconnect</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -65,6 +73,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>UsageView.Remove</IdeaActionID>
+          <ShortCut>'⌥⌦'</ShortCut>
+          <Description>Remove</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiServerApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'ApiServerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MyshopAuthorizationImplConfigTest.unauthorized'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -78,7 +102,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -94,7 +118,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'ApiServerApplication'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application.main()'">
