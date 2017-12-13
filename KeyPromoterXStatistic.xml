@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -243,6 +243,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>Runner.CloseAllViews</IdeaActionID>
+          <Description>Close All</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
