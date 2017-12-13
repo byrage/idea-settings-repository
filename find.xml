@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>ShopOwnerFindRestApi.java</mask>
       <mask>*D</mask>
@@ -14,10 +15,8 @@
       <mask>*Dto.java</mask>
       <mask>f</mask>
       <mask>*X</mask>
-      <mask>*.xml</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>c</mask>
@@ -25,7 +24,6 @@
       <mask>can</mask>
       <mask>cance</mask>
       <mask>canc</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Ca</mask>
       <mask>*Canc</mask>
@@ -34,6 +32,9 @@
       <mask>*Cancel*.</mask>
       <mask>*Cancel*.ja</mask>
       <mask>*Cancel*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
