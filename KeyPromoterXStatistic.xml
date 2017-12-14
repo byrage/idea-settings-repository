@@ -161,14 +161,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'ApiServerApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
-          <Description>Run 'ApiServerApplication'</Description>
-          <Count>32</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'Application.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -269,6 +261,14 @@
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApiServerApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'ApiServerApplication'</Description>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AuthTest'">
