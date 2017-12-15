@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌥8'</ShortCut>
           <Description>Database</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApiServerApplication'">
@@ -86,7 +86,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DataSetExtractorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'DataSetExtractorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MyshopAuthorizationImplConfigTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application.main()'">
@@ -190,6 +198,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AuthorizedTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataSetExtractorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DataSetExtractorTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -238,7 +254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
