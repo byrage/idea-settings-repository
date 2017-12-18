@@ -44,6 +44,9 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetDefault" />
