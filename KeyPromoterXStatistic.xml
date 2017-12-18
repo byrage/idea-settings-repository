@@ -225,14 +225,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'⌥6'</ShortCut>
-          <Description>TODO</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
@@ -246,7 +238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9' or '⌥⇧9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
@@ -325,6 +317,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'in.woowa.myshop.api....'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌥6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
