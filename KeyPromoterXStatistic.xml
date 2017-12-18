@@ -25,11 +25,27 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database Tools...">
+        <Item>
+          <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
+          <ShortCut>'⌥⏎' or '⌃⇧M'</ShortCut>
+          <Description>Database Tools...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ApiServerApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'ApiServerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
+          <Description>Declaration</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -73,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Module Settings">
         <Item>
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
@@ -94,7 +118,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -198,6 +222,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MyshopAuthorizationImplConfigT...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
+          <Description>Source Editor</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
