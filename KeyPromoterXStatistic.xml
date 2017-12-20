@@ -41,14 +41,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -303,6 +295,14 @@
           <ShortCut>'⌥8'</ShortCut>
           <Description>Database</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
