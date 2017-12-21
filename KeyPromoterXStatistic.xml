@@ -22,7 +22,15 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌃⌥⇧C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>6</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -137,6 +145,30 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AddonTradeInfoQueryTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'AddonTradeInfoQueryTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AddonTradeInfoQueryTest.test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'AddonTradeInfoQueryTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AddonTradeInfoServiceItTest.test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'AddonTradeInfoServiceItTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in myshop-api_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -246,6 +278,14 @@
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
           <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
           <Description>Source Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AddonTradeInfoQueryTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'AddonTradeInfoQueryTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
