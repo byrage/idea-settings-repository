@@ -13,7 +13,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="at" value="assertThat(result.get$END$, is());" toReformat="false" toShortenFQNames="true">
+  <template name="at" value="assertThat(result.get$END$, is());" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
