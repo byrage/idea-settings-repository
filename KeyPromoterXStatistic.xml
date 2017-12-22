@@ -289,6 +289,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpotitemTradeInfoServiceItTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'SpotitemTradeInfoServiceItTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SuperlistTradeInfoServiceItTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'in.woowa.addon.api.service.tra...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
