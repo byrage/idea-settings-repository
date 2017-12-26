@@ -238,7 +238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'MchSalesFaServiceTest.name'</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MyshopAuthorizationImplConfigTest'">
@@ -377,6 +377,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'name()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'name()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
@@ -425,6 +433,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MchSalesFaServiceTest.name'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MchSalesFaServiceTest.name'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MyshopAuthorizationImplConfigTest.authorized'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -462,7 +478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -470,7 +486,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌥9' or '⌥⇧9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
     </option>
