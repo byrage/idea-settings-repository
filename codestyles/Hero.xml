@@ -1,4 +1,4 @@
-<code_scheme name="Hero">
+<code_scheme name="Hero" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -38,6 +38,16 @@
   </DBN-SQL>
   <JavaCodeStyleSettings>
     <option name="SPACE_BEFORE_OPENING_ANGLE_BRACKET_IN_TYPE_PARAMETER" value="true" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="false" static="false" />
+        <package name="javax.swing" withSubpackages="false" static="false" />
+        <package name="static org.junit" withSubpackages="true" static="false" />
+        <package name="static org.hamcrest" withSubpackages="true" static="false" />
+        <package name="static org.mockito" withSubpackages="true" static="false" />
+      </value>
+    </option>
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
@@ -67,6 +77,8 @@
     </formatting-settings>
   </DBN-SQL>
   <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_COMMA" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="WRAP_VALUES_EXPRESSION" value="0" />
   </SqlCodeStyleSettings>
   <XML>
