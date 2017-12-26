@@ -77,6 +77,8 @@
     </formatting-settings>
   </DBN-SQL>
   <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_THEN" value="false" />
+    <option name="NEW_LINE_BEFORE_OTHER_CLAUSES" value="false" />
     <option name="NEW_LINE_BEFORE_COMMA" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="WRAP_VALUES_EXPRESSION" value="0" />
