@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -174,7 +174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'AddonRepaymentMoneyTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AddonTradeInfoQueryTest'">
@@ -281,6 +281,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SuperlistRepaymentMoneyTest.cancel_00x'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'SuperlistRepaymentMoneyTest.cancel_00x'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SuperlistTradeInfoServiceItTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AddonRepaymentMoneyTest'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddonTradeInfoQueryTest'">
@@ -487,6 +495,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SuperlistTradeInfoServiceItTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SuperlistTradeInfoServiceItTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
