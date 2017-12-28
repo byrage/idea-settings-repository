@@ -169,6 +169,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AddonRepaymentMoneyTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'AddonRepaymentMoneyTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AddonTradeInfoQueryTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
