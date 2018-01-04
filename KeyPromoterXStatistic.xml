@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -239,6 +239,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'AuthorizedTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BuyMchControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'BuyMchControllerTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BuyMchHistoryTest.test'">
@@ -401,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BuyMchControllerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BuyMchControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DataSetExtractorTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -513,6 +529,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BuyMchControllerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'BuyMchControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MchSalesFaServiceTest.name'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -558,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
