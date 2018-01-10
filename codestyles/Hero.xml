@@ -77,11 +77,29 @@
     </formatting-settings>
   </DBN-SQL>
   <SqlCodeStyleSettings>
-    <option name="NEW_LINE_BEFORE_THEN" value="false" />
-    <option name="NEW_LINE_BEFORE_OTHER_CLAUSES" value="false" />
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
     <option name="NEW_LINE_BEFORE_COMMA" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
-    <option name="WRAP_VALUES_EXPRESSION" value="0" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="INDENT_JOIN" value="false" />
+    <option name="INDENT_JOIN_CONDITION" value="false" />
+    <option name="WRAP_INSIDE_SELECT" value="0" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="0" />
+    <option name="WRAP_INSIDE_WHERE" value="0" />
+    <option name="WRAP_INSIDE_ORDER_BY" value="0" />
+    <option name="WRAP_INSIDE_SET" value="0" />
+    <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="0" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="2" />
+    <option name="WRAP_VALUES_EXPRESSION" value="5" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="0" />
+    <option name="NEW_LINE_AFTER_SELECT_2" value="2" />
+    <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="ALIAS_CASE" value="2" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -131,5 +149,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
