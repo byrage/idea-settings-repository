@@ -345,14 +345,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'MoneyTestBuilder.buildTestCase'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⇧F5'</ShortCut>
-          <Description>Rerun 'MoneyTestBuilder.buildTestCase'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'MyShopApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -789,6 +781,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'ApiServerApplication'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MoneyTestBuilder.buildTestCase'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'MoneyTestBuilder.buildTestCase'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
