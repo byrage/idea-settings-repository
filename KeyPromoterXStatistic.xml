@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C' or '⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -167,6 +167,14 @@
           <ShortCut>'⌃`'</ShortCut>
           <Description>Open Module Settings</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V' or '⌃V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
