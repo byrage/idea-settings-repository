@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
