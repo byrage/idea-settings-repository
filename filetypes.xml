@@ -12,6 +12,8 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="testRunFailureResultCanBeSerialised" type="PLAIN_TEXT" />
+      <mapping pattern="arrayComparisonFailure_411" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
