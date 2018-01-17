@@ -97,6 +97,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID>Vcs.EditSource</IdeaActionID>
+          <ShortCut>'⌃`'</ShortCut>
+          <Description>Edit Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Exclude">
         <Item>
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
