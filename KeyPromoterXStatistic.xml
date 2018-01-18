@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BizmoneyMemberControllerTest.비즈머니_업주정보_조회'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'BizmoneyMemberControllerTest.비즈머니_업주정보_조회'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BuyMchControllerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
