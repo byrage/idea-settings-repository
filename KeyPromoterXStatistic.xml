@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BizmoneyMemberControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'BizmoneyMemberControllerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BizmoneyMemberControllerTest.비즈머니_업주정보_조회'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -513,6 +521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BizmoneyMemberControllerTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'BizmoneyMemberControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BuyMchControllerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -679,6 +695,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ApiServerApplication'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BizmoneyMemberControllerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'BizmoneyMemberControllerTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BizmoneyMemberControllerTest.비즈머니_업주정보_조회'">
