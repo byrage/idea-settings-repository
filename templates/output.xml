@@ -46,4 +46,9 @@
     <variable name="MAP" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="lnl" value="Lists.newArrayList($END$)" description="[Custom] Prints a new arraylist Method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

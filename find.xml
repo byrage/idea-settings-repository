@@ -5,15 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
-      <mask>can</mask>
-      <mask>cance</mask>
-      <mask>canc</mask>
-      <mask>*C</mask>
-      <mask>*Ca</mask>
-      <mask>*Canc</mask>
-      <mask>*Cancel</mask>
-      <mask>*Cancel*</mask>
       <mask>*Cancel*.</mask>
       <mask>*Cancel*.ja</mask>
       <mask>*Cancel*.java</mask>
@@ -33,9 +26,17 @@
       <mask>md_cpndsp_purch.</mask>
       <mask>md_cpndsp_purch.p</mask>
       <mask>md_cpndsp_purch.php</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.t</mask>
+      <mask>*.test</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Te</mask>
+      <mask>*Test</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.ja</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
