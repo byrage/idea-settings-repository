@@ -89,14 +89,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Disconnect">
-        <Item>
-          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
-          <ShortCut>'⌃F2'</ShortCut>
-          <Description>Disconnect</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Edit Source">
         <Item>
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
@@ -199,14 +191,6 @@
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
           <Count>66</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Properties">
-        <Item>
-          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
-          <ShortCut>'⌥⏎'</ShortCut>
-          <Description>Properties</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -710,7 +694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ApiServerApplication'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BizmoneyMemberControllerTest'">
@@ -857,6 +841,20 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -871,6 +869,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Open Console</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Properties</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh all Gradle projects">
