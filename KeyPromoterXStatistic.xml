@@ -233,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All in addon-api_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'All in addon-api_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in myshop-api_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -345,6 +353,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MchSalesFaServiceTest.통계에_한건만_존재하더라도_나머지데이터들이_0으로_존재하는지_확인'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'MchSalesFaServiceTest.통계에_한건만_존재하더라도_나머지데이터들이_0으로_존재하는지_확인'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MoneyTestBuilder'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -454,7 +470,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AllModelTests'">
@@ -646,7 +662,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Step Over</Description>
-          <Count>86</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '/Users/hero/woowabros/bizmoney/bizmoney-backoffice-ui [gulp_build]'">
@@ -745,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MchSalesFaServiceTest.통계에_한건만_존재하더라도_나머지데이터들이_0으로_존재하는지_확인'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'MchSalesFaServiceTest.통계에_한건만_존재하더라도_나머지데이터들이_0으로_존재하는지_확인'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MoneyTestBuilder.buildTestCase'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -806,7 +830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
     </option>
