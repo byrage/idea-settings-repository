@@ -417,6 +417,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'in.woowa.addon.api in addon-api_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'in.woowa.addon.api in addon-api_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'in.woowa.addon.api.service.tradehistory in addon-api_integrationTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -598,7 +606,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'SpotitemTradeInfoServiceItTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpotitemTradeInfoServiceTest'">
@@ -630,6 +638,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'buildTestCase()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'in.woowa.addon.api in addon-api_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'in.woowa.addon.api in addon-api_test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -822,7 +838,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SuperlistTradeInfoServiceItTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
