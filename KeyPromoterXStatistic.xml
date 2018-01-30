@@ -881,6 +881,12 @@
           <Description>Close All</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Close Others">
+        <Item>
+          <IdeaActionID>Runner.CloseOtherViews</IdeaActionID>
+          <Description>Close Others</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Database">
         <Item>
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
