@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌥3'</ShortCut>
           <Description>Find</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -423,6 +423,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'MyshopAuthorizationImplConfigTest.unauthorized'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PaymentCalculatorFunctionalTest.itTestPaymentCalculation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'PaymentCalculatorFunctionalTest.itTestPaymentCalculation'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpotitemTradeInfoServiceItTest'">
