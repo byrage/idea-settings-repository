@@ -174,7 +174,15 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌃`'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>5</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open sbt config">
+        <Item>
+          <IdeaActionID>ExternalSystem.OpenConfig</IdeaActionID>
+          <ShortCut>'⌃`'</ShortCut>
+          <Description>Open sbt config</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -1089,6 +1097,12 @@
           <ShortCut>'⌥9' or '⌥⇧9'</ShortCut>
           <Description>Version Control</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="sbt shell">
+        <Item>
+          <IdeaActionID>ActivatesbtshellToolWindow</IdeaActionID>
+          <Description>sbt shell</Description>
         </Item>
       </Statistic>
     </option>
