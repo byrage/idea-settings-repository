@@ -169,12 +169,28 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Leave a Comment">
+        <Item>
+          <IdeaActionID>Upsource.CreateOrShowDiscussion</IdeaActionID>
+          <ShortCut>'⌃⌥/'</ShortCut>
+          <Description>Leave a Comment</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Module Settings">
         <Item>
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌃`'</ShortCut>
           <Description>Open Module Settings</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in Upsource">
+        <Item>
+          <IdeaActionID>Upsource.OpenFileInBrowser</IdeaActionID>
+          <ShortCut>'⌥⇧U'</ShortCut>
+          <Description>Open in Upsource</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open sbt config">
@@ -934,7 +950,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
