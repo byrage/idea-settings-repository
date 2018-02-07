@@ -1129,6 +1129,12 @@
           <Count>35</Count>
         </Item>
       </Statistic>
+      <Statistic Action="sbt">
+        <Item>
+          <IdeaActionID>ActivatesbtToolWindow</IdeaActionID>
+          <Description>sbt</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="sbt shell">
         <Item>
           <IdeaActionID>ActivatesbtshellToolWindow</IdeaActionID>
