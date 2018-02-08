@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All Features in: service'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'All Features in: service'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in addon-api_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -567,6 +575,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AddonTradeInfoServiceTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All Features in: service'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'All Features in: service'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Features in: test'">
@@ -871,6 +887,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'AddonTradeInfoServiceItTest.findAddonPaymentDetail'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All Features in: service'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'All Features in: service'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ApiServerApplication'">
