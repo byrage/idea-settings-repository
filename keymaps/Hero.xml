@@ -149,6 +149,7 @@
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="alt numpad0" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
