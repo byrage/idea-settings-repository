@@ -753,6 +753,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.baemin.ad.listing''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'com.baemin.ad.listing''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'in.woowa.addon.api.service.tra...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
