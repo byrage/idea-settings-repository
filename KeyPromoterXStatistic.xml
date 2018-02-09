@@ -473,6 +473,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ParallelStreamSample'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'ParallelStreamSample'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PaymentCalculatorFunctionalTest.itTestPaymentCalculation'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -990,6 +998,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'MyshopAuthorizationImplConfigTest.authorized'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ParallelStreamSample'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'ParallelStreamSample'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
