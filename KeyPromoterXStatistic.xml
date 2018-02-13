@@ -585,6 +585,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All Features in: integration'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'All Features in: integration'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All Features in: service'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -734,6 +742,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MyshopAuthorizationImplConfigT...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Play 2'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'Play 2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1006,6 +1022,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ParallelStreamSample'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Play 2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Play 2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
