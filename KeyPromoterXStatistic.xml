@@ -1049,6 +1049,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SampleThread'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SampleThread'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpotitemTradeInfoServiceItTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
