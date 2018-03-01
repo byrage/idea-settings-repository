@@ -58,6 +58,11 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="DumpLookupElementWeights" />
   <action id="EditSource">
@@ -196,6 +201,9 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -207,6 +215,9 @@
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Print" />
   <action id="ProjectViewChangeView">
