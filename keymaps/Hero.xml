@@ -203,6 +203,7 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -218,6 +219,7 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Print" />
   <action id="ProjectViewChangeView">
