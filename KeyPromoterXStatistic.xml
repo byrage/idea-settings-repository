@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌃⌥⇧C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -790,7 +790,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'Play 2'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RankShopResponseConvertTest'">
@@ -841,6 +841,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.baemin.integration''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'com.baemin.integration''</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'in.woowa.addon.api.service.tra...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -854,6 +862,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'buildTestCase()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.baemin.integration in root'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'com.baemin.integration in root'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
