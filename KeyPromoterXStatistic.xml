@@ -758,7 +758,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'Local'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MchSalesControllerTest'">
@@ -1055,6 +1055,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ForkJoinTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Local'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Local'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MchSalesControllerTest'">
