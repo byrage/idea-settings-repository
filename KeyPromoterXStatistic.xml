@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApiServerApplication'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'Local'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MchSalesControllerTest'">
@@ -1081,14 +1081,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Local'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌃F2'</ShortCut>
-          <Description>Stop 'Local'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'MchSalesControllerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1375,6 +1367,14 @@
           <ShortCut>'F6'</ShortCut>
           <Description>Step Over</Description>
           <Count>163</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Local'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Local'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
