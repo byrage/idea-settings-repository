@@ -214,7 +214,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌃`'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open in Upsource">
@@ -263,6 +263,14 @@
           <ShortCut>'⌃⌥⇧S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌃⌥L' or '⌃⇧F'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
