@@ -462,7 +462,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'IntegrationTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Local'">
@@ -825,6 +825,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IntegrationTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'IntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Local'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -983,6 +991,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'indexer'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'integration'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'integration'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'local'">
@@ -1247,6 +1263,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SuperlistTradeInfoServiceItTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'local'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'local'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
