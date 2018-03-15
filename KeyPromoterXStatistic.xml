@@ -985,6 +985,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'local'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'local'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'name()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1142,7 +1150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Integration'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MchSalesControllerTest'">
