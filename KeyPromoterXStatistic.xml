@@ -190,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12' or '⌃⌥''</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'CucumberRunner'</Description>
-          <Count>12</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CustomRecursiveAction'">
@@ -1111,6 +1111,14 @@
           <ShortCut>'⌥Button1 Click' or '⌥/' or 'F3'</ShortCut>
           <Description>Source Editor</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Split Vertically">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'⌃⇧V'</ShortCut>
+          <Description>Split Vertically</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '/Users/hero/woowabros/bizmoney/bizmoney-backoffice-ui [gulp_build]'">
