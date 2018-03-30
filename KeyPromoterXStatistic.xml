@@ -481,6 +481,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'JsonTestUtilsTest.invalidate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'JsonTestUtilsTest.invalidate'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Local'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -678,7 +686,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -870,7 +878,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'IntegrationTest'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ListingAdStatusQueryBuilderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ListingAdStatusQueryBuilderTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Local'">
@@ -1366,7 +1382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
     </option>
