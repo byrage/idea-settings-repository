@@ -673,6 +673,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'local'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'local'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -1006,7 +1014,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'com.baemin.ad.listing''</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.baemin.integration''">
@@ -1070,7 +1078,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'local'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'name()'">
