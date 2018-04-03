@@ -1142,7 +1142,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'⌃⇧V'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '/Users/hero/woowabros/bizmoney/bizmoney-backoffice-ui [gulp_build]'">
