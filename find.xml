@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*Cancel*.</mask>
-      <mask>*Cancel*.ja</mask>
-      <mask>*Cancel*.java</mask>
-      <mask>*.xml</mask>
-      <mask>,d</mask>
-      <mask>,</mask>
-      <mask>md</mask>
-      <mask>md_</mask>
-      <mask>md_cp</mask>
-      <mask>md_cpnd</mask>
-      <mask>md_cpndsp</mask>
-      <mask>md_cpndsp_</mask>
-      <mask>md_cpndsp_pu</mask>
-      <mask>md_cpndsp_pur</mask>
-      <mask>md_cpndsp_purch</mask>
-      <mask>md_cpndsp_purch.d</mask>
-      <mask>md_cpndsp_purch.</mask>
-      <mask>md_cpndsp_purch.p</mask>
-      <mask>md_cpndsp_purch.php</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.t</mask>
-      <mask>*.test</mask>
-      <mask>*</mask>
-      <mask>*T</mask>
-      <mask>*Te</mask>
-      <mask>*Test</mask>
-      <mask>*Test.</mask>
-      <mask>*Test.ja</mask>
-      <mask>*Test.java</mask>
-    </recentFileMasks>
   </component>
 </application>
