@@ -1033,6 +1033,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'build'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'build'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'buildTestCase()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
