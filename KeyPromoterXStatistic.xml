@@ -969,6 +969,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
+          <Description>Run 'RidersEsQueryBuilderTest.compareQueryBui...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpotitemTradeInfoServiceItTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
