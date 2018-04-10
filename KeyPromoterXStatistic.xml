@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Change Splitter Orientation">
+        <Item>
+          <IdeaActionID>ChangeSplitOrientation</IdeaActionID>
+          <ShortCut>'⌃⇧S'</ShortCut>
+          <Description>Change Splitter Orientation</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
