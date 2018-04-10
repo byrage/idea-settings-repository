@@ -289,6 +289,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AdListingDateUtilsTest.fromWithLocalDate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'AdListingDateUtilsTest.fromWithLocalDate'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AddonRepaymentMoneyTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -711,6 +719,14 @@
           <ShortCut>'⌃⌥Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdListingDateUtilsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'AdListingDateUtilsTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddonRepaymentMoneyTest'">
