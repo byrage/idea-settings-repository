@@ -30,7 +30,7 @@
           <IdeaActionID>ChangeSplitOrientation</IdeaActionID>
           <ShortCut>'⌃⇧S'</ShortCut>
           <Description>Change Splitter Orientation</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
