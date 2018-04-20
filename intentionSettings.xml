@@ -6,5 +6,6 @@
     <ignoreAction name="Java/Declaration/Create Test" />
     <ignoreAction name="Java/Declaration/Implement abstract class or interface" />
     <ignoreAction name="Java/Declaration/Add Javadoc" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
   </component>
 </application>
