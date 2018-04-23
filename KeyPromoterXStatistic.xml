@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApiServerApplication'">
@@ -87,6 +87,14 @@
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'ApiServerApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Feature: riders.listing.compare'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'Feature: riders.listing.compare'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'IntegrationTest'">
@@ -273,6 +281,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile '...ingCompareTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Recompile '...ingCompareTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -455,6 +471,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'DataSetExtractorTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Feature: riders.listing.compare'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Rerun 'Feature: riders.listing.compare'</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ForkJoinTest'">
@@ -710,7 +734,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'integration'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'local'">
@@ -919,6 +943,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'DeliveryTimeFactoryTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Feature: riders.listing.compare'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Feature: riders.listing.compare'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Integration'">
@@ -1134,7 +1166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'integration'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'local'">
@@ -1295,6 +1327,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'CancelSpotItemServiceTest.testSelectCancelFeeInfo'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Feature: riders.listing.compare'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Feature: riders.listing.compare'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ForkJoinTest'">
@@ -1486,7 +1526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'local'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1510,7 +1550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
     </option>
