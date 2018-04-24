@@ -1209,6 +1209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'⌃⌥⇧I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
@@ -1555,6 +1563,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Analyze Data Flow to Here">
+        <Item>
+          <IdeaActionID>SliceBackward</IdeaActionID>
+          <Description>Analyze Data Flow to Here</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Close All">
         <Item>
           <IdeaActionID>Runner.CloseAllViews</IdeaActionID>

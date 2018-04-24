@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/com/baemin/ad/listing/service/querybuilder/RidersQueryBuilder.java [root]'" />
-    <option name="defaultScopeName" value="File '.../app/com/baemin/ad/listing/service/querybuilder/RidersQueryBuilder.java [root]'" />
+    <option name="customScope" value="Project 'ad-listing-api'" />
+    <option name="defaultScopeName" value="Project 'ad-listing-api'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '.../app/com/baemin/ad/listing/service/querybuilder/RidersQueryBuilder.java [root]'" />
+    <option name="SEARCH_SCOPE" value="Project 'ad-listing-api'" />
   </component>
 </application>
