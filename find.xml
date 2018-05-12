@@ -18,5 +18,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Test*</mask>
+    <mask>*Request*</mask>
   </component>
 </application>
