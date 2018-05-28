@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Scala Plugin Update" />
+    <notification groupId="Scala Plugin Update" displayType="NONE" />
   </component>
 </application>
