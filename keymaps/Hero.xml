@@ -211,6 +211,7 @@
   <action id="NextEditorTab" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -224,6 +225,7 @@
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="ctrl p" />
