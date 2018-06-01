@@ -7,5 +7,6 @@
     <ignoreAction name="Java/Declaration/Add Javadoc" />
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
     <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Groovy/Declaration/Groovy Introduce local variable" />
   </component>
 </application>
