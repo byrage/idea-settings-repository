@@ -5,7 +5,6 @@
   <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Bitstream Vera Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -14398,6 +14397,11 @@
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="8abee5" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
