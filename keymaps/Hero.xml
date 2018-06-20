@@ -39,6 +39,7 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
@@ -179,8 +180,7 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.ShrinkSelection" />
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift ctrl f12" />
-    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+    <keyboard-shortcut first-keystroke="shift alt home" />
   </action>
   <action id="HideCoverage">
     <keyboard-shortcut first-keystroke="shift alt f6" />
@@ -192,6 +192,9 @@
   <action id="IntroduceLambdaParameter" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift alt g" />
@@ -272,6 +275,7 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="ShowNavBar" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -329,6 +333,7 @@
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ViewNavigationBar" />
   <action id="hg4idea.QGotoFromPatches" />
   <action id="tasks.switch" />
   <action id="tasks.switch.toolbar" />
