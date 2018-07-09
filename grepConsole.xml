@@ -71,7 +71,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="grepExpression" value=".*INFO.*" />
                       <option name="id" value="b9a80954-923a-4cb6-96af-e609cb25e8e2" />
                       <option name="style">
                         <GrepStyle>
@@ -86,7 +86,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="c2d3de4d-a724-4166-b24c-ce2f34a7df2a" />
                       <option name="style">
                         <GrepStyle>
