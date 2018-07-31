@@ -8,6 +8,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
   <action id="DebugClass" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -23,6 +26,7 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="Jdbc.RunSqlScript" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -31,5 +35,12 @@
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="RunClass" />
   <action id="RunDashboard.Debug" />
+  <action id="RunDashboard.Run" />
+  <action id="ThePlugin.Bamboo.RunBuild" />
 </keymap>
