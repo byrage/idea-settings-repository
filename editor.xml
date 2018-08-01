@@ -6,7 +6,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" />
 </application>

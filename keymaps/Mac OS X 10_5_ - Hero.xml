@@ -17,6 +17,14 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
