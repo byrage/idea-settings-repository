@@ -21,12 +21,24 @@
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWord" />
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="FindNext" />
   <action id="FindUsages">
@@ -39,14 +51,17 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="GuiDesigner.CreateListener" />
   <action id="IpnbRunAllCellsAction">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="OverrideMethods" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="ctrl p" />
