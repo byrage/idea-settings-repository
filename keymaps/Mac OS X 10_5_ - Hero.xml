@@ -69,6 +69,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PasteMultiple" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -80,6 +81,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="RerunTests" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -89,6 +94,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="ThePlugin.Bamboo.RunBuild" />
   <action id="Vcs.ShowMessageHistory">

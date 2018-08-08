@@ -4,7 +4,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="NanumGothic" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" />
