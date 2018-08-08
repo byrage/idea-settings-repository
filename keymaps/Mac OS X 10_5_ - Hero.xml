@@ -86,6 +86,10 @@
   </action>
   <action id="RunDashboard.Debug" />
   <action id="RunDashboard.Run" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ThePlugin.Bamboo.RunBuild" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
