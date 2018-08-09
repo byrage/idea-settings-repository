@@ -6,10 +6,10 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="testRunFailureResultCanBeSerialised" type="PLAIN_TEXT" />
       <mapping pattern="listingad_status_request" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="arrayComparisonFailure_411" type="PLAIN_TEXT" />
+      <mapping pattern="deliveryRegion" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
