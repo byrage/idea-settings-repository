@@ -3,6 +3,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -59,9 +62,6 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GuiDesigner.CreateListener" />
-  <action id="IpnbRunAllCellsAction">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NextDiff">
