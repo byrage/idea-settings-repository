@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>list_normal.php</mask>
     <mask>*.gradle</mask>
     <mask>*Service*</mask>
-    <mask>*.conf</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*Request*</mask>
@@ -27,5 +27,6 @@
     <mask>*Test*</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
