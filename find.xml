@@ -25,9 +25,9 @@
     <mask>*.groovy</mask>
     <mask>*Riders*</mask>
     <mask>*Test*</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
