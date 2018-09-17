@@ -100,6 +100,7 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="ThePlugin.Bamboo.RunBuild" />
+  <action id="ThePlugin.ShowGlobalSettings" />
   <action id="ThePlugin.ShowHideMainToolWindow" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
