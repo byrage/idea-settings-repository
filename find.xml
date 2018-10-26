@@ -27,6 +27,7 @@
     <mask>*Test.java</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
     <mask>*.py</mask>
   </component>
 </application>
