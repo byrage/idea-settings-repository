@@ -13,7 +13,7 @@
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://extbetaruby.woowahan.com:6436</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://extbetaruby.woowahan.com:6436;database=SbSvc</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
