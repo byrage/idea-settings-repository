@@ -32,5 +32,6 @@
   </action>
   <action id="Scala.RunConsole" />
   <action id="TagDocumentationNavigation" />
+  <action id="ThePlugin.ShowHideMainToolWindow" />
   <action id="Uml.ShowDiff" />
 </keymap>
