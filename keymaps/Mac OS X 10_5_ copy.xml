@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -13,4 +19,7 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="Scala.RunConsole" />
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
 </keymap>
