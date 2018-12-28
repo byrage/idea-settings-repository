@@ -8,6 +8,10 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
