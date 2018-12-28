@@ -2,6 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
