@@ -34,6 +34,10 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -42,4 +46,5 @@
   <action id="TagDocumentationNavigation" />
   <action id="ThePlugin.ShowHideMainToolWindow" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
