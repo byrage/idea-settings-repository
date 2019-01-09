@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,6 @@
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
     <mask>list_normal.php</mask>
-    <mask>*.gradle</mask>
     <mask>*Service*</mask>
     <mask>*.yml</mask>
     <mask>*Request*</mask>
@@ -28,5 +27,6 @@
     <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.sql</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
