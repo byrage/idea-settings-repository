@@ -14,7 +14,6 @@
     <mask>*Response*</mask>
     <mask>list_normal.php</mask>
     <mask>*Service*</mask>
-    <mask>*.yml</mask>
     <mask>*Request*</mask>
     <mask>*Riders*</mask>
     <mask>*Test*</mask>
@@ -29,5 +28,6 @@
     <mask>*.gradle</mask>
     <mask>*Controller*</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
