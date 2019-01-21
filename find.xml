@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.groovy" />
+    <option name="FILE_MASK" value="*Test*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,6 @@
     <mask>*Service*</mask>
     <mask>*Request*</mask>
     <mask>*Riders*</mask>
-    <mask>*Test*</mask>
     <mask>*Test.java</mask>
     <mask>*.conf</mask>
     <mask>*.groovy</mask>
@@ -28,7 +27,8 @@
     <mask>*.gradle</mask>
     <mask>*Controller*</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*Test.groovy</mask>
+    <mask>*.yml</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
