@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,9 +29,9 @@
     <mask>*Controller*</mask>
     <mask>*.java</mask>
     <mask>*Test.groovy</mask>
-    <mask>*.yml</mask>
     <mask>*Test*</mask>
     <mask>*.groovy</mask>
     <mask>spring.factories</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
