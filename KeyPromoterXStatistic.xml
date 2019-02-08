@@ -1281,6 +1281,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
+          <ShortCut>'⌃⇧H'</ShortCut>
+          <Description>Show History</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Source Editor">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
