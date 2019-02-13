@@ -865,6 +865,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AdCenterListingIndex...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'AdCenterListingIndex...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AdListingDateUtilsTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1726,7 +1734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>102</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
     </option>
