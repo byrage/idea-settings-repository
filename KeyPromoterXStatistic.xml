@@ -934,7 +934,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1513,6 +1513,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '/Users/hero/woowabros/bizmoney/bizmoney-backoffice-ui [gulp_build]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1833,6 +1841,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ad-center [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ad-center [test]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ad-center:ad-center-listing-inventory-api [jar]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1886,7 +1902,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
     </option>
