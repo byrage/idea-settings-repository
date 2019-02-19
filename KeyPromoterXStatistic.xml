@@ -369,6 +369,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste without Formatting">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste without Formatting</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Preferences...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -630,6 +638,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'DataSetExtractorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ElasticSearchServiceItTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ElasticSearchServiceItTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
