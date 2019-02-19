@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CommonFilterBuilderItTest.filterByThemes'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'CommonFilterBuilderItTest.filterByThemes'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -617,6 +625,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByThemes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CommonFilterBuilderItTest.filterByThemes'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CucumberRunner'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -889,6 +905,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Test - listing-api !!'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'Test - listing-api !!'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TestRunner'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -958,7 +982,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>27</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1134,6 +1158,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'BuyMchControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CommonFilterBuilderItTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CommonFilterBuilderItTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1665,6 +1697,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CommonFilterBuilderItTest.filterByShopStatusWithBaropayAndSmartMenu'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CommonFilterBuilderItTest.filterByShopStatusWithBaropayAndSmartMenu'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CommonFilterBuilderItTest.filterByThemes'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CommonFilterBuilderItTest.filterByThemes'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1774,7 +1822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersFilterBuilderItTest.filterByListingAd - 사용자와 업소의 거리가 3.38km일 때, 기본거리 제한이 4km 라면 광고 노출'">
@@ -1934,7 +1982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>128</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
     </option>
