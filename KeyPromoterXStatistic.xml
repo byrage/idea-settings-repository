@@ -942,7 +942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'ad-center [test]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ad-center:ad-center-listing-api [test]'">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>38</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ElasticSearchServiceItTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Feature: riders.listing.compare'">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ad-center [test]'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ad-center:ad-center-listing-inventory-api [jar]'">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
     </option>
