@@ -15,7 +15,10 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
-  <action id="DebugClass" />
+  <action id="Debug" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
