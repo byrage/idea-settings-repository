@@ -657,6 +657,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByDeliveryArea - 폴리곤'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CommonFilterBuilderItTest.filterByDeliveryArea - 폴리곤'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByThemes'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1833,6 +1841,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CommonFilterBuilderItTest.filterByDeliveryArea - 폴리곤'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CommonFilterBuilderItTest.filterByDeliveryArea - 폴리곤'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CommonFilterBuilderItTest.filterByShopStatusWithBaropayAndSmartMenu'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2142,7 +2158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
     </option>
