@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdCenterListingApiApplication'">
@@ -441,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove">
         <Item>
           <IdeaActionID>UsageView.Remove</IdeaActionID>
@@ -481,12 +489,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'API- Unit Test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'API- Unit Test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AdCenterListingApiApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'AdCenterListingApiApplication'</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdCenterListingApiConfigTest'">
@@ -1046,7 +1062,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'test#2'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test#3'">
@@ -1070,7 +1086,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>69</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1702,7 +1718,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1742,7 +1758,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AdCenterListingApiApplication'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdCenterListingIndexConsumerApplication'">
@@ -2158,7 +2174,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2166,7 +2182,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
     </option>

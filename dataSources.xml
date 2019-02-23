@@ -37,7 +37,7 @@
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://bizgood-dev-aurora-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com/adcenter_listinginventory_beta?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
+      <jdbc-url>jdbc:mysql://bizgood-dev-aurora-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
