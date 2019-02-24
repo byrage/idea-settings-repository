@@ -977,6 +977,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SpringBatchSampleApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'SpringBatchSampleApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SuperlistRepaymentMoneyTest.cancel_00x'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1470,6 +1478,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'SpotitemTradeInfoServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringBatchSampleApp...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SpringBatchSampleApp...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
