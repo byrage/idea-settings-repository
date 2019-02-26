@@ -350,7 +350,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2262,7 +2262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>222</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
     </option>
