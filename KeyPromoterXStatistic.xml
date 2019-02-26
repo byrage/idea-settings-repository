@@ -1953,6 +1953,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ElasticSearchServiceItTest.scroll'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ElasticSearchServiceItTest.scroll'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
