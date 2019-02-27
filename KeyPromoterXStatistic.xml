@@ -366,7 +366,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -1990,6 +1990,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CommonSortBuilderItTest.isShopOpened - 배달시간이 아닐 때 sortValue == 0.0'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ElasticSearchServiceItTest.acceptExistsShopNumberDocs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ElasticSearchServiceItTest.acceptExistsShopNumberDocs'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
