@@ -1353,6 +1353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CampaignListingControllerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CampaignListingControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CommonFilterBuilderItTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2263,6 +2271,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ad-center [test]'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ad-center:ad-center-listing-api [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ad-center:ad-center-listing-api [test]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ad-center:ad-center-listing-inventory-api [jar]'">
