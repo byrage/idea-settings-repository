@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="testRunFailureResultCanBeSerialised" type="PLAIN_TEXT" />
       <mapping pattern="listingad_status_request" type="PLAIN_TEXT" />
+      <mapping pattern="arrayComparisonFailure_411" type="PLAIN_TEXT" />
       <mapping pattern=".sbtserver.lock" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping pattern="arrayComparisonFailure_411" type="PLAIN_TEXT" />
       <mapping pattern="deliveryRegion" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
