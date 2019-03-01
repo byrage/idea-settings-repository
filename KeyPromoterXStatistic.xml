@@ -977,6 +977,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RidersCampaignListingServiceItTest.getRidersCampaignResult'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersCampaignListingServiceItTest.getRidersCampaignResult'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RidersEsQueryBuilderTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2193,6 +2201,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RidersSortBuilderItTest.isNotBaeminKitchenAndSetBlocked - 배라지점 부분차단 배민키친 차단상태이고 배민키친 테마라면 sortValue == 0.0'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RidersSortBuilderItTest.isNotBaeminKitchenAndSetBlocked - 배라지점 부분차단 배민키친 차단상태이고 배민키친 테마라면 sortValue == 0.0'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RidersSourceBuilderTest.containFilterQueries'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2350,7 +2366,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>248</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
     </option>
