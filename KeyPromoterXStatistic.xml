@@ -1121,6 +1121,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'display-test - Listing API'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'display-test - Listing API'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'in.woowa.addon.api in addon-api_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
