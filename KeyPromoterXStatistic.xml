@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>40</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdCenterListingApiApplication'">
@@ -534,7 +534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'AdCenterListingApiApplication'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdCenterListingApiConfigTest'">
@@ -977,6 +977,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RidersAdListingFacadeTest.ES 쿼리 시 결과가 없는 케이스'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersAdListingFacadeTest.ES 쿼리 시 결과가 없는 케이스'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.성공 케이스'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1206,7 +1222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>199</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2382,7 +2398,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌥7'</ShortCut>
           <Description>Structure</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -2406,7 +2422,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>296</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
     </option>
