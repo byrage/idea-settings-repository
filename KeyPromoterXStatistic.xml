@@ -398,7 +398,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -1502,6 +1502,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'DeliveryTimeFactoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ES 쿼리 시 결과가 없는 케이스()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ES 쿼리 시 결과가 없는 케이스()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
