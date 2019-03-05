@@ -358,7 +358,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12' or '⌃⌥''</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
