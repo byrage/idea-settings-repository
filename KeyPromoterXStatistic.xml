@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'acceptExistsShopNu...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'acceptExistsShopNu...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'deliveryFee()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -809,6 +817,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ElasticSearchServiceItTest.acceptExistsShopNumberDocs'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ElasticSearchServiceItTest.acceptExistsShopNumberDocs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ElasticSearchServiceItTest.deltaIndex test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1246,7 +1262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>221</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2462,7 +2478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>343</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
     </option>
