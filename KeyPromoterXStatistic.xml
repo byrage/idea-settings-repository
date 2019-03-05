@@ -113,14 +113,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'⌥5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>50</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'AdCenterListingApiApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -2342,7 +2334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Run Tests'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SampleThread'">
@@ -2531,6 +2523,14 @@
           <ShortCut>'⌥8'</ShortCut>
           <Description>Database</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌥5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Local'">
