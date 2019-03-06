@@ -254,7 +254,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '성공 케이스()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.성공 케이스'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersCampaignListingServiceItTest.getRidersCampaignResult'">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>230</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2265,12 +2265,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RidersAdListingFacadeTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RidersAdListingFacadeTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RidersAdListingFacadeTest.배달가능 지점이 없는 케이스'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RidersAdListingFacadeTest.배달가능 지점이 없는 케이스'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RidersAdListingFacadeTest.성공 케이스'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest.성공 케이스'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersFilterBuilderItTest.filterByListingAd - 사용자와 업소의 거리가 3.38km일 때, 기본거리 제한이 4km 라면 광고 노출'">
@@ -2502,7 +2518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>358</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
     </option>
