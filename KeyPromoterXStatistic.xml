@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Name()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Name()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Play 2'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -254,6 +262,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달가능 지점이 없는 케이스()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '사용자-업소 거리 &gt; 기본배달거리...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -406,7 +422,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -1089,6 +1105,22 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RidersEsResponseDtoTest.Name'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersEsResponseDtoTest.Name'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RidersEsResponseDtoTest.사용자-업소 거리 &gt; 기본배달거리 -&gt; 기본배달팁 + 추가배달거리 당 추가배달팁'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersEsResponseDtoTest.사용자-업소 거리 &gt; 기본배달거리 -&gt; 기본배달팁 + 추가배달거리 당 추가배달팁'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RidersQueryBuilderTest.isEmptyKeyword'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1655,6 +1687,14 @@
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'RidersEsQueryBuilderTest.compareQueryBui...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RidersEsResponseDtoTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RidersEsResponseDtoTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersQueryBuilderTest'">
@@ -2550,7 +2590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>367</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
     </option>
