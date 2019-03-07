@@ -713,6 +713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BaeminSortBuilderItTest.adPriority'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminSortBuilderItTest.adPriority'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BaeminSortBuilderItTest.filterByListingAd'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2598,7 +2606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>376</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
     </option>
