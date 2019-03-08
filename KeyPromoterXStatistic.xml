@@ -198,7 +198,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'adPriority()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'createBaeminAdFilter()'">
@@ -358,6 +358,14 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'⌃`'</ShortCut>
           <Description>Edit Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -766,7 +774,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminSortBuilderItTest.adPriority'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminSortBuilderItTest.filterByListingAd'">
@@ -1262,7 +1270,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'SuperlistFilterBuilderItTest.createSuperlistFilter'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SuperlistRepaymentMoneyTest.cancel_00x'">
@@ -1921,6 +1929,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'adPriority()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'adPriority()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'build'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2159,14 +2175,6 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'API- Unit Test'</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'AdCenterListingApiApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'AdCenterListingApiApplication'</Description>
-          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdCenterListingIndexConsumerApplication'">
@@ -2718,7 +2726,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>402</Count>
+          <Count>406</Count>
         </Item>
       </Statistic>
     </option>
@@ -2947,6 +2955,14 @@
           <ShortCut>'F6'</ShortCut>
           <Description>Step Over</Description>
           <Count>163</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdCenterListingApiApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AdCenterListingApiApplication'</Description>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Local'">
