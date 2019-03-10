@@ -58,35 +58,15 @@
   <PHPCodeStyleSettings>
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
   </PHPCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <SqlCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="3" />
     <option name="QUOTE_IDENTIFIER" value="1" />
-    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="QUERY_TRUE_INDENT" value="false" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
@@ -98,15 +78,29 @@
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_EL_COMMA" value="1" />
     <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="FROM_PLACE_ON" value="10" />
     <option name="WHERE_EL_WRAP" value="0" />
     <option name="WHERE_EL_BOUND" value="2" />
     <option name="ORDER_EL_WRAP" value="0" />
     <option name="ORDER_EL_COMMA" value="1" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_ALIGN" value="false" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="ROUTINE_ARG_COMMA" value="1" />
+    <option name="ROUTINE_ARG_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="CORTEGE_COMMA_1ST" value="true" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
     <option name="NEW_LINE_BEFORE_COMMA" value="true" />
@@ -133,6 +127,14 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="Groovy">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
