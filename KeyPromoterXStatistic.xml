@@ -2457,6 +2457,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OngoingProcessorTest.ongoingRequest eventType == 'UPDATE' but deco parsing fail'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OngoingProcessorTest.ongoingRequest eventType == 'UPDATE' but deco parsing fail'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ParallelStreamSample'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
