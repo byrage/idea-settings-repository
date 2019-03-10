@@ -321,6 +321,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '배달예상시간 API 에러발생하더라...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '배달예상시간 API 에러발생하더라...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1166,7 +1174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달가능 지점이 없는 케이스'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'">
@@ -1174,7 +1182,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생하더라도 검색결과 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생하더라도 검색결과 리턴'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
@@ -2806,7 +2822,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>434</Count>
+          <Count>443</Count>
         </Item>
       </Statistic>
     </option>
