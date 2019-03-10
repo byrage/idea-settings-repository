@@ -1174,7 +1174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
@@ -2558,7 +2558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersAdListingFacadeTest.성공 케이스'">
@@ -2806,7 +2806,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
     </option>
