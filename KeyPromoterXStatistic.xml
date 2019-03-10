@@ -326,7 +326,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '성공 케이스()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1166,7 +1166,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.성공 케이스'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersCampaignListingServiceItTest.getRidersCampaignResult'">
@@ -1822,7 +1822,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RidersAdListingFacadeTest'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
@@ -2502,7 +2502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersAdListingFacadeTest.배달가능 지점이 없는 케이스'">
@@ -2518,7 +2518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest.성공 케이스'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersFilterBuilderItTest.filterByListingAd - 사용자와 업소의 거리가 3.38km일 때, 기본거리 제한이 4km 라면 광고 노출'">
@@ -2591,14 +2591,6 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'RidersV2ControllerTest.name'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Run Tests'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Run Tests'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SampleThread'">
@@ -2766,7 +2758,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>413</Count>
+          <Count>417</Count>
         </Item>
       </Statistic>
     </option>
@@ -3011,6 +3003,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Local'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Run Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Run Tests'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
