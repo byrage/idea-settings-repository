@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ongoingRequest eve...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ongoingRequest eve...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'scroll()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -598,7 +606,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1095,6 +1103,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'MyshopAuthorizationImplConfigTest.unauthorized'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OngoingProcessorTest.ongoingRequest eventType == 'UPDATE''">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'OngoingProcessorTest.ongoingRequest eventType == 'UPDATE''</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ParallelStreamSample'">
@@ -2742,7 +2758,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>408</Count>
+          <Count>413</Count>
         </Item>
       </Statistic>
     </option>
