@@ -318,7 +318,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달예상시간 API 에러발생()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'</Description>
-          <Count>2</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
@@ -1854,7 +1854,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RidersAdListingFacadeTest'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
@@ -2142,7 +2142,7 @@
           <IdeaActionID>RunToCursor</IdeaActionID>
           <ShortCut>'⌥F9'</ShortCut>
           <Description>Run to Cursor</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
@@ -2558,7 +2558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersAdListingFacadeTest.성공 케이스'">
@@ -2806,7 +2806,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>421</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
     </option>
