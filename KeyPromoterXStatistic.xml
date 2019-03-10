@@ -2806,7 +2806,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>419</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
     </option>
