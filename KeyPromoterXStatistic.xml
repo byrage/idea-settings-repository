@@ -969,6 +969,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ElasticSearchServiceItTest.updateDecos'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ElasticSearchServiceItTest.updateDecos'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ElasticSearchServiceItTest.updateShopProperties - must and optional exists'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2441,6 +2449,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ElasticSearchServiceItTest.updateDecos'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ElasticSearchServiceItTest.updateDecos'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2830,7 +2846,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>448</Count>
+          <Count>459</Count>
         </Item>
       </Statistic>
     </option>
