@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '배달가능지점 조회 API 에러발생()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '배달가능지점 조회 API 에러발생()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '배달예상시간 API 에러발생()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1190,6 +1198,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달가능 지점이 없는 케이스'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달가능지점 조회 API 에러발생'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersAdListingFacadeTest.배달가능지점 조회 API 에러발생'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -2854,7 +2870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>461</Count>
+          <Count>462</Count>
         </Item>
       </Statistic>
     </option>
