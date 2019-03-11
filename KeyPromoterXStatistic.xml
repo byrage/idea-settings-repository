@@ -217,6 +217,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'deleteSuperlistByS...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'deleteSuperlistByS...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'deliveryFee()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -967,6 +975,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'ElasticSearchServiceItTest.acceptExistsShopNumberDocs'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ElasticSearchServiceItTest.deleteSuperlistByShopNumber'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ElasticSearchServiceItTest.deleteSuperlistByShopNumber'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ElasticSearchServiceItTest.deltaIndex test'">
@@ -2870,7 +2886,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>466</Count>
+          <Count>471</Count>
         </Item>
       </Statistic>
     </option>
