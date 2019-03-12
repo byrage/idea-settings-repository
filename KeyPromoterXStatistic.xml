@@ -326,7 +326,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '두번째 페이지 조회결과 오픈리스트...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '배달가능 지점이 없는 케이스()'">
@@ -823,6 +823,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회결과 오픈리스트 3건, 배민리스트 10건 일경우 배민리스트 10건 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회결과 오픈리스트 3건, 배민리스트 10건 일경우 배민리스트 10건 리턴'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'">
@@ -1761,6 +1769,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BaeminCampaignListingFacadeTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BaeminCampaignListingFacadeTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BaeminCampaignListingServiceItTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2246,7 +2262,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run '두번째 페이지 조회결과 오픈리스트...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '배달예상시간 API 에러발생 케이스()'">
@@ -2974,7 +2990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>529</Count>
+          <Count>532</Count>
         </Item>
       </Statistic>
     </option>
