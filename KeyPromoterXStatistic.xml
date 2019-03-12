@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '두번째 페이지 조회결과 오픈리스트...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '두번째 페이지 조회결과 오픈리스트...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '배달가능 지점이 없는 케이스()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -2233,6 +2241,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '두번째 페이지 조회결과 오픈리스트...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run '두번째 페이지 조회결과 오픈리스트...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '배달예상시간 API 에러발생 케이스()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2958,7 +2974,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>520</Count>
+          <Count>529</Count>
         </Item>
       </Statistic>
     </option>
