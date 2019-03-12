@@ -889,6 +889,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CampaignListingControllerTest.getRidersCampaign'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CampaignListingControllerTest.getRidersCampaign'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CancelSpotItemServiceTest.testSelectCancelFeeInfo'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
