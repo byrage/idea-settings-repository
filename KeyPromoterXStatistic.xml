@@ -377,6 +377,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '첫 페이지 조회결과 오픈리스트 3...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '첫 페이지 조회결과 오픈리스트 3...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -801,12 +809,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignListingFacadeTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest.조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.첫 페이지 조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignListingFacadeTest.첫 페이지 조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
@@ -2934,7 +2958,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>508</Count>
+          <Count>520</Count>
         </Item>
       </Statistic>
     </option>
