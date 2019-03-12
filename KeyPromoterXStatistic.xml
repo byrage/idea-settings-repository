@@ -374,7 +374,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '조회결과 오픈리스트 3건, 배민리...()'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -806,7 +806,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest.조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>507</Count>
+          <Count>508</Count>
         </Item>
       </Statistic>
     </option>
