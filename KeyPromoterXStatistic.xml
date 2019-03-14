@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RidersAdListingFacadeTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'RidersAdListingFacadeTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Test All'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달가능지점 조회 API 에러발생()'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '배달예상시간 API 에러발생()'">
@@ -390,7 +398,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달예상시간 API 에러발생하더라...()'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
@@ -1342,7 +1350,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달가능지점 조회 API 에러발생'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생'">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생하더라도 검색결과는 리턴'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
@@ -2070,7 +2078,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RidersAdListingFacadeTest'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
@@ -3078,7 +3086,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>585</Count>
+          <Count>598</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
