@@ -1502,7 +1502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'Run Tests'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunnableTest'">
@@ -1911,6 +1911,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CampaignListingControllerTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CampaignResponseConverterTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CampaignResponseConverterTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CommonFilterBuilderItTest'">
@@ -3094,7 +3102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>600</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
