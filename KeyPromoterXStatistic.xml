@@ -390,7 +390,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달예상시간 API 에러발생하더라...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
@@ -1361,6 +1361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생하더라도 검색결과는 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersAdListingFacadeTest.배달예상시간 API 에러발생하더라도 검색결과는 리턴'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest.배달예상시간 API에서 응답이 없는 케이스'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2062,7 +2070,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RidersAdListingFacadeTest'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
@@ -3070,7 +3078,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>578</Count>
+          <Count>585</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
