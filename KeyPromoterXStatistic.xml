@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BaeminCampaignListingFacadeTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BaeminCampaignListingFacadeTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CommonFilterBuilderItTest.filterByThemes'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -321,12 +329,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '두번째 페이지 조회 요청 시 오픈...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '두번째 페이지 조회 요청 시 오픈...()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '두번째 페이지 조회결과 오픈리스트...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '두번째 페이지 조회결과 오픈리스트...()'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '배달가능 지점이 없는 케이스()'">
@@ -390,7 +406,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '첫 페이지 조회결과 오픈리스트 3...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -822,7 +838,23 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회 요청 시 오픈리스트 3건, 배민리스트 26건 일경우 배민리스트 26건 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회 요청 시 오픈리스트 3건, 배민리스트 26건 일경우 배민리스트 26건 리턴'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회결과 오픈리스트 1건, 배민리스트 26건 일경우 배민리스트 26건 리턴'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회결과 오픈리스트 1건, 배민리스트 26건 일경우 배민리스트 26건 리턴'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminCampaignListingFacadeTest.두번째 페이지 조회결과 오픈리스트 3건, 배민리스트 10건 일경우 배민리스트 10건 리턴'">
@@ -846,7 +878,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest.첫 페이지 조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
@@ -1774,7 +1806,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BaeminCampaignListingFacadeTest'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BaeminCampaignListingServiceItTest'">
@@ -2257,12 +2289,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '두번째 페이지 조회 요청 시 오픈...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run '두번째 페이지 조회 요청 시 오픈...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '두번째 페이지 조회결과 오픈리스트...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run '두번째 페이지 조회결과 오픈리스트...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '배달예상시간 API 에러발생 케이스()'">
@@ -2294,6 +2334,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run '알 수 없는 에러발생()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '첫 페이지 조회결과 오픈리스트 3...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run '첫 페이지 조회결과 오픈리스트 3...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2455,6 +2503,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'ApiServerApplication'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BaeminCampaignListingFacadeTest.두번째 페이지 조회 요청 시 오픈리스트 3건, 배민리스트 26건 일경우 배민리스트 26건 리턴'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BaeminCampaignListingFacadeTest.두번째 페이지 조회 요청 시 오픈리스트 3건, 배민리스트 26건 일경우 배민리스트 26건 리턴'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
@@ -2990,7 +3046,15 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>532</Count>
+          <Count>549</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
