@@ -414,7 +414,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '성공 케이스()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '조회결과 오픈리스트 3건, 배민리...()'">
@@ -1014,6 +1014,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'CampaignListingControllerTest.getRidersCampaign'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CampaignResponseConverterTest.성공 케이스'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CampaignResponseConverterTest.성공 케이스'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2078,7 +2086,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RidersAdListingFacadeTest'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RidersEsQueryBuilderTest.compareQueryBui...'">
@@ -3086,7 +3094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>598</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
