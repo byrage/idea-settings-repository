@@ -257,6 +257,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'getBaeminCampaigns()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'getBaeminCampaigns()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'getRidersCampaign()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
