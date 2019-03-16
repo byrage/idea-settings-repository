@@ -782,7 +782,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'AdCenterListingApiApplication'</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdCenterListingApiConfigTest'">
@@ -950,6 +950,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminFilterBuilderItTest.filterByBaeminAdAndSuperlist'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminFilterBuilderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminFilterBuilderTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1542,7 +1550,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'Run Tests'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunnableTest'">
@@ -1927,6 +1935,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BaeminFilterBuilderItTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BaeminFilterBuilderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BaeminFilterBuilderTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BizmoneyMemberControllerTest'">
@@ -2318,6 +2334,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10' or '⌃F11'</ShortCut>
           <Description>Run 'com.baemin.integration in root'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'createBaeminAdFilter()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'createBaeminAdFilter()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
