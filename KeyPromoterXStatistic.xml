@@ -598,7 +598,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -623,6 +623,14 @@
           <ShortCut>'⇧⌘M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'⌥⌘↓'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -679,6 +687,14 @@
           <ShortCut>'⌃⌥S'</ShortCut>
           <Description>Preferences...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
+          <ShortCut>'⌥⌘↑'</ShortCut>
+          <Description>Previous Page</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1670,7 +1686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'local'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ongoing - BETA'">
@@ -3158,7 +3174,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>651</Count>
+          <Count>652</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
