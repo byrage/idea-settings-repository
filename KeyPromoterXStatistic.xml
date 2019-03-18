@@ -358,7 +358,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'updateCampaignData()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'updateDecos()'">
@@ -3206,7 +3206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>658</Count>
+          <Count>662</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
