@@ -1961,6 +1961,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BaeminFilterBuilderT...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BaeminFilterBuilderT...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BaeminFilterBuilderTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
