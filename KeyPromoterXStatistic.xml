@@ -1217,6 +1217,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ElasticSearchServiceItTest.updateShopProperties - must is not exists'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ElasticSearchServiceItTest.updateShopProperties - must is not exists'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1574,7 +1582,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'Run Tests'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunnableTest'">
@@ -3119,6 +3127,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '[Baemin] Delta Indexing'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ad-center [build]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ad-center [build]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ad-center [integrationTest]'">
