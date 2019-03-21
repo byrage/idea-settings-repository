@@ -614,7 +614,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
@@ -3286,7 +3286,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>684</Count>
+          <Count>685</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
