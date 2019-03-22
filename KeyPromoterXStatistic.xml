@@ -262,7 +262,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'deleteSuperlistByS...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'deliveryFee()'">
@@ -2529,6 +2529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'deleteSuperlistByS...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'deleteSuperlistByS...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'deliveryFee()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3422,7 +3430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>710</Count>
+          <Count>712</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
