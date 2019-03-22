@@ -1070,7 +1070,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'CampaignListingControllerItTest'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CampaignListingControllerItTest.Name'">
@@ -1079,6 +1079,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'CampaignListingControllerItTest.Name'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CampaignListingControllerItTest.test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CampaignListingControllerItTest.test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CampaignListingControllerTest.getBaeminCampaign'">
@@ -3294,7 +3302,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>685</Count>
+          <Count>686</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
