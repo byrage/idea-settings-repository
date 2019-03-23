@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ES occurred except...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ES occurred except...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Feature: riders.listing.compare'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Name()'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Name2()'">
@@ -999,6 +1007,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'BaeminCampaignListingFacadeTest.첫 페이지 조회결과 오픈리스트 3건, 배민리스트 26건 일경우 오픈리스트 3, 배민리스트 23건 리턴'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BaeminCampaignSearchServiceTest.Name'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'BaeminCampaignSearchServiceTest.Name'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
@@ -2889,6 +2905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BaeminCampaignSearchServiceTest.Name'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BaeminCampaignSearchServiceTest.Name'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BaeminFilterBuilderItTest.createBaeminAdFilter'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3446,7 +3470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>714</Count>
+          <Count>719</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
