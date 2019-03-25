@@ -150,7 +150,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ES occurred except...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Feature: riders.listing.compare'">
@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'search()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'search()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'updateByShopNumber...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -487,6 +495,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug '배달예상시간 API 에러발생하더라...()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '배라 지점상태 이상()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '배라 지점상태 이상()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '사용자-업소 거리 &gt; 기본배달거리...()'">
@@ -1641,6 +1657,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RidersCampaignSearchServiceTest.ES occurred exception'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersCampaignSearchServiceTest.ES occurred exception'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RidersCampaignSearchServiceTest.배라 지점상태 이상'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'RidersCampaignSearchServiceTest.배라 지점상태 이상'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RidersEsQueryBuilderTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1726,7 +1758,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'Run Tests'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunnableTest'">
@@ -1895,6 +1927,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'ongoing'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'service in ad-center-listing-api_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'service in ad-center-listing-api_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'superlist'">
@@ -2537,6 +2577,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'service''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Tests in 'service''</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unit Test'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3081,6 +3129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ElasticSearchServiceItTest.search'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ElasticSearchServiceItTest.search'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ElasticSearchServiceItTest.updateDecos'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3239,6 +3295,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RidersAdListingFacadeTest.성공 케이스'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RidersCampaignSearchServiceTest.ES occurred exception'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RidersCampaignSearchServiceTest.ES occurred exception'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RidersFilterBuilderItTest.filterByListingAd - 사용자와 업소의 거리가 3.38km일 때, 기본거리 제한이 4km 라면 광고 노출'">
@@ -3502,7 +3566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>736</Count>
+          <Count>745</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
