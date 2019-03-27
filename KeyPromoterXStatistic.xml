@@ -2633,6 +2633,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'acceptToHavingShop...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'acceptToHavingShop...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'adPriority()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
