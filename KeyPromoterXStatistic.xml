@@ -3073,6 +3073,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BaropayLiveRequestTest.바로페이라이브_파싱_테스트'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BaropayLiveRequestTest.바로페이라이브_파싱_테스트'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BizmoneyMemberControllerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3630,7 +3638,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>775</Count>
+          <Count>776</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
