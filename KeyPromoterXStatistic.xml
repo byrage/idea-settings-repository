@@ -1249,6 +1249,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByAdLocation - 노출반경 &gt; 거리'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CommonFilterBuilderItTest.filterByAdLocation - 노출반경 &gt; 거리'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByDeliveryArea - 폴리곤'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3614,7 +3622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>772</Count>
+          <Count>775</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
