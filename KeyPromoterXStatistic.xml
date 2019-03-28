@@ -2185,6 +2185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BaeminCampaignListingServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BaeminCampaignListingServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BaeminCampaignSearchServiceTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
