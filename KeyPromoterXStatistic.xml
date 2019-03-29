@@ -1993,6 +1993,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'superlistDelete - stage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'superlistDelete - stage'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'superlistDelete'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3655,6 +3663,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'superlist'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'superlistDelete - stage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'superlistDelete - stage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'superlistDelete'">
