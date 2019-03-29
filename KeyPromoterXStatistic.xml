@@ -710,7 +710,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Leave a Comment">
