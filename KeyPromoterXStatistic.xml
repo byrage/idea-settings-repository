@@ -1233,6 +1233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CampaignListingControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CampaignListingControllerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CampaignListingControllerTest.getBaeminCampaign'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1598,7 +1606,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RidersAdListingFacadeTest'">
@@ -2286,7 +2294,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CampaignListingControllerTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CampaignResponseConverterTest'">
