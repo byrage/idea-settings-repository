@@ -3425,6 +3425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RidersEsResponseDtoTests.name'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RidersEsResponseDtoTests.name'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RidersFilterBuilderItTest.filterByListingAd - 사용자와 업소의 거리가 3.38km일 때, 기본거리 제한이 4km 라면 광고 노출'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
