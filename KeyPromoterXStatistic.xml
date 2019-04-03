@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AdCenterListingIndexConsumerApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'AdCenterListingIndexConsumerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SuperlistFilterBuilderItTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -86,6 +94,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'SuperlistFilterBuilderItTest.createSuperlistFilter'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdCenterListingIndex...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'AdCenterListingIndex...'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -119,6 +135,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'API - DEVELOP'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdCenterListingIndexConsumerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AdCenterListingIndexConsumerApplication'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ElasticSearchServiceItTest.bulkDelete test'">
