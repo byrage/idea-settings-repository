@@ -25,6 +25,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'deleteFreeCampaigns()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'deleteFreeCampaigns()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '운영환경에서 오픈리스트 노출여부 ...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'API - BETA'">
@@ -86,6 +94,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'AdCenterListingIndexConsumerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OngoingWorkerServiceTest.deleteFreeCampaigns'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'OngoingWorkerServiceTest.deleteFreeCampaigns'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -222,7 +238,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>26</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
     </option>
