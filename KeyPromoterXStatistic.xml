@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CommonFilterBuilderItTest.filterByBaropayAndSmartMenu'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CommonFilterBuilderItTest.filterByBaropayAndSmartMenu'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OngoingWorkerServiceTest.deleteFreeCampaigns'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
     </option>
