@@ -73,6 +73,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste without Formatting">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste without Formatting</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Watch">
         <Item>
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
