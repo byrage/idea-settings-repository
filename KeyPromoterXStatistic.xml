@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'API - STAGE'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'API - STAGE'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AdCenterListingIndexConsumerApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -249,6 +257,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'API - STAGE'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'API - STAGE'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'AdCenterListingIndexConsumerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -310,7 +326,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
     </option>
