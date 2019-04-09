@@ -81,6 +81,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste without Formatting">
         <Item>
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
@@ -153,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OngoingProcessorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'OngoingProcessorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OngoingWorkerServiceTest.deleteFreeCampaigns'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -222,6 +238,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CommonFilterBuilderItTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OngoingProcessorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OngoingProcessorTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -334,7 +358,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
     </option>
