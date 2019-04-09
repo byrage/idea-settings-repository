@@ -49,6 +49,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'filterByDisplayRad...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'filterByDisplayRad...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '운영환경에서 오픈리스트 노출여부 ...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -201,6 +209,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TakeoutFilterBuilderItTest.filterByDisplayRadiusWithShopLocation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'TakeoutFilterBuilderItTest.filterByDisplayRadiusWithShopLocation'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'es#9'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -263,6 +279,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'createSuperlistFil...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'filterByDisplayRad...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'filterByDisplayRad...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '온고잉_프로세서_정상동작()'">
@@ -358,7 +382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>48</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
     </option>
