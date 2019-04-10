@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CampaignListingControllerItTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'CampaignListingControllerItTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CommonFilterBuilderItTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -231,6 +239,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'ongoing - BETA'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ongoing - DEV'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Rerun 'ongoing - DEV'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdCenterListingIndex...'">
