@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '캠페인_삭제()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '캠페인_삭제()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
     </option>
