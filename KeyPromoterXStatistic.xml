@@ -425,6 +425,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'go build ad-center-l...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'go build ad-center-l...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'riders()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
