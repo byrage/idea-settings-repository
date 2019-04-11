@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste without Formatting">
         <Item>
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun 'OngoingServiceTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OngoingWorkerServiceTest.deleteFreeCampaigns'">
@@ -382,7 +390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OngoingServiceTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OpenlistFilterBuilderItTest'">
