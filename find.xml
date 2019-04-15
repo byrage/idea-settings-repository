@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -19,7 +20,6 @@
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>spring.factories</mask>
-    <mask>*.py</mask>
     <mask>*Controller*</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
@@ -33,5 +33,6 @@
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*Test*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
