@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test*" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -28,12 +29,12 @@
     <mask>*.java</mask>
     <mask>*Java</mask>
     <mask>*Builder*</mask>
-    <mask>*Test.java</mask>
     <mask>*Test.groovy</mask>
     <mask>*.gradle</mask>
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
+    <mask>*Test.java</mask>
     <mask>*Test*</mask>
   </component>
 </application>
