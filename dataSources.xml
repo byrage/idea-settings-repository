@@ -77,10 +77,10 @@
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="STAGE-inventory" uuid="769e0be2-8f44-4eee-89a8-23ecce0949f5">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.127.0.157:4135/adcenter_listinginventory?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
