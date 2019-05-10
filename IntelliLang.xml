@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>ObjectMapper.readTree (com.fasterxml.jackson.databind)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("readTree").withParameters("java.lang.String").definedInClass("com.fasterxml.jackson.databind.ObjectMapper"))]]></place>
+    </injection>
+  </component>
+</application>
