@@ -18,11 +18,11 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="DEV-batch" uuid="da47d774-e175-4fc2-8c22-f6c7e2dfb13a">
+    <data-source source="LOCAL" name="BETA-batch" uuid="da47d774-e175-4fc2-8c22-f6c7e2dfb13a">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://b2b-dev-maria.ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:3306/spring_batch_dev?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
+      <jdbc-url>jdbc:mysql://bizgood-dev-aurora-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:3306/spring_batch_beta?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
