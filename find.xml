@@ -31,7 +31,7 @@
     <mask>*.java</mask>
     <mask>*Config*</mask>
     <mask>*Test*</mask>
-    <mask>*.yml</mask>
     <mask>logback*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
