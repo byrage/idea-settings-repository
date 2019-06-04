@@ -24,7 +24,6 @@
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
-    <mask>*.gradle</mask>
     <mask>*.groovy</mask>
     <mask>*.py</mask>
     <mask>*Test.java</mask>
@@ -33,5 +32,6 @@
     <mask>*Test*</mask>
     <mask>logback*</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
