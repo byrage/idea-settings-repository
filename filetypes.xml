@@ -23,6 +23,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="arrayComparisonFailure_411" type="PLAIN_TEXT" />
       <mapping pattern="deliveryRegion" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
