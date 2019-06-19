@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../src [java-racingcar]'" />
+    <option name="defaultScopeName" value="Directory '.../src [java-racingcar]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [java-racingcar]'" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
