@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -13,7 +14,6 @@
     <mask>*Request*</mask>
     <mask>*Riders*</mask>
     <mask>*.conf</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>spring.factories</mask>
@@ -33,5 +33,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
