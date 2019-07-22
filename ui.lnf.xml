@@ -3,9 +3,4 @@
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="COLOR_BLINDNESS" value="deuteranopia" />
-    <option name="MAX_LOOKUP_WIDTH2" value="943" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-  </component>
 </application>
