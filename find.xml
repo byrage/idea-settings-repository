@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*.mxml</mask>
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
@@ -33,5 +33,6 @@
     <mask>*ItTest.java</mask>
     <mask>*.yml</mask>
     <mask>*Config*</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
