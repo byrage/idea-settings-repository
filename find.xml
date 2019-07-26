@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../baemin-module/baemin-port-dynamo/src/main/java/com/baemin/port/dynamo [baemin-port.baemin-module.baemin-port-dynamo.main]'" />
-    <option name="defaultScopeName" value="Directory '.../baemin-module/baemin-port-dynamo/src/main/java/com/baemin/port/dynamo [baemin-port.baemin-module.baemin-port-dynamo.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../baemin-module/baemin-port-dynamo/src/main/java/com/baemin/port/dynamo [baemin-port.baemin-module.baemin-port-dynamo.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.mxml</mask>
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
