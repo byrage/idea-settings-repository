@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test*" />
     <mask>*.mxml</mask>
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
@@ -25,13 +26,13 @@
     <mask>*.py</mask>
     <mask>*Test.java</mask>
     <mask>logback*</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
-    <mask>*Test*</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
