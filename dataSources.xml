@@ -18,20 +18,6 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="BETA-batch" uuid="da47d774-e175-4fc2-8c22-f6c7e2dfb13a">
-      <driver-ref>mariadb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://bizgood-dev-aurora-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:3306/spring_batch_beta?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="BETA-inventory" uuid="f0b4c316-707e-4efe-ac4e-89aee3e47cfa">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
