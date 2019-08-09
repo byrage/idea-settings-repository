@@ -1,14 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Ruby2" uuid="b3bf8afb-f62b-472b-9f19-4504a026df06">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://121.156.126.216:6436</jdbc-url>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="Beta-Ruby" uuid="2864a215-3a9e-43b5-b629-6706d6e4f3e1">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
@@ -16,21 +7,6 @@
       <jdbc-url>jdbc:sqlserver://extbetaruby.woowahan.com:6436;database=SbSvc</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="BETA-inventory" uuid="f0b4c316-707e-4efe-ac4e-89aee3e47cfa">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://bizgood-dev-aurora-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="LOCAL-MariaDB" uuid="28a289e3-b894-4b60-a2e6-5c8414d0760f">
@@ -47,37 +23,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="STAGE-inventory" uuid="769e0be2-8f44-4eee-89a8-23ecce0949f5">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.127.0.157:4136/adcenter_listinginventory?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="PROD-inventory" uuid="7e0978fb-ff45-4ac6-b182-5e9bd818f3a7">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.127.0.157:4163/adcenter_listinginventory?connectTimeout=1000&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="BETA-Ad display batch" uuid="d99e1af8-f23f-4f56-933c-f844b85726ec">
+    <data-source source="LOCAL" name="BETA-AD DISPLAY" uuid="d99e1af8-f23f-4f56-933c-f844b85726ec">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -91,7 +37,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PROD-Ad display batch" uuid="bb911e23-916a-4454-a095-aaae5d0529da">
+    <data-source source="LOCAL" name="PROD-AD DISPLAY" uuid="bb911e23-916a-4454-a095-aaae5d0529da">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
