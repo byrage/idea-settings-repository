@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.mxml</mask>
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
@@ -33,7 +34,7 @@
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*Test*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
