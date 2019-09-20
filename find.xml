@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.mxml</mask>
     <mask>Riders*Response.java</mask>
     <mask>*Response*</mask>
@@ -28,12 +29,12 @@
     <mask>*Test.java</mask>
     <mask>logback*</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
     <mask>*.yml</mask>
     <mask>*Test*</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
