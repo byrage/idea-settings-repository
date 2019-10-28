@@ -30,8 +30,8 @@
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
     <mask>*Test*</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
