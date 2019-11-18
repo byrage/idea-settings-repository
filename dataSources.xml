@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="BETA-AD DISPLAY" uuid="d99e1af8-f23f-4f56-933c-f844b85726ec">
+    <data-source source="LOCAL" name="ADDP-BETA" uuid="d99e1af8-f23f-4f56-933c-f844b85726ec">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -14,7 +14,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PROD-AD DISPLAY" uuid="bb911e23-916a-4454-a095-aaae5d0529da">
+    <data-source source="LOCAL" name="ADDP-PROD" uuid="bb911e23-916a-4454-a095-aaae5d0529da">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -28,11 +28,25 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="STAGE-AD DISPLAY" uuid="6ab089fa-92f8-42c4-bc39-ad892ee5f3ff">
+    <data-source source="LOCAL" name="ADDP-STAGE" uuid="6ab089fa-92f8-42c4-bc39-ad892ee5f3ff">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://ad-display-stage.cluster-cvqgfwbdqpys.ap-northeast-2.rds.amazonaws.com:6025/bm_adp?connectTimeout=1200&amp;socketTimeout=60000</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="BMART-BETA" uuid="3c9ee29d-01df-45e0-9a19-25be26051bab">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://bmart-search.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
