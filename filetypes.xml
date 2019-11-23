@@ -16,6 +16,7 @@
       <mapping pattern="userdata" type="PLAIN_TEXT" />
       <mapping pattern="sadf" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
