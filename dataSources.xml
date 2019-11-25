@@ -46,7 +46,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://bmart-search.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025</jdbc-url>
+      <jdbc-url>jdbc:mysql://bmart-search.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/bmart_search</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
