@@ -85,5 +85,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="BETA-REVIEW" uuid="cefe2a9e-f870-4001-ba30-ce2a5dd91cf9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mongodb/review?ssl=true&amp;ssl_ca_certs=rds-combined-ca-bundle.pem&amp;replicaSet=rs0</jdbc-url>
+    </data-source>
   </component>
 </application>
