@@ -1,95 +1,22 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ADDP-BETA" uuid="d99e1af8-f23f-4f56-933c-f844b85726ec">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://ad-display.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/bm_adp?connectTimeout=1200&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="ADDP-PROD" uuid="bb911e23-916a-4454-a095-aaae5d0529da">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.127.0.157:4211/bm_adp</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="ADDP-STAGE" uuid="6ab089fa-92f8-42c4-bc39-ad892ee5f3ff">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://ad-display-stage.cluster-cvqgfwbdqpys.ap-northeast-2.rds.amazonaws.com:6025/bm_adp?connectTimeout=1200&amp;socketTimeout=60000</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="BMART-BETA" uuid="3c9ee29d-01df-45e0-9a19-25be26051bab">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://bmart-search.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/bmart_search</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="BETA-Surfer" uuid="2d688057-f3e5-4f98-8ba8-dbab32c4c701">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://surfer.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/bm_surfer</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="PROD-SURFER" uuid="271eb7a6-cdc9-4e3e-87de-86a7e53315f7">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://surfer.cluster-cvqgfwbdqpys.ap-northeast-2.rds.amazonaws.com:6025/bm_surfer</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="BETA-REVIEW" uuid="cefe2a9e-f870-4001-ba30-ce2a5dd91cf9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://mongodb/review?ssl=true&amp;ssl_ca_certs=rds-combined-ca-bundle.pem&amp;replicaSet=rs0</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD-REVIEW (OLD)" uuid="72621b49-2204-45d5-a324-c216a8ec8bac">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.127.0.157:4050/?ssl=true&amp;ssl_ca_certs=rds-combined-ca-bundle.pem&amp;replicaSet=rs0</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD-REVIEW" uuid="b1b36b99-7493-4bb7-b000-d8b8a1f8144d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.127.0.157:4295/?ssl=true&amp;ssl_ca_certs=rds-combined-ca-bundle.pem&amp;replicaSet=rs0</jdbc-url>
     </data-source>
   </component>
 </application>
