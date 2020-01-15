@@ -22,7 +22,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://baemin-review-beta.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/</jdbc-url>
+      <jdbc-url>jdbc:mysql://baemin-review-beta.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025/review</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
       </driver-properties>
@@ -62,21 +62,6 @@
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
       </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="BETA-NEW-REVIEW" group="BETA" uuid="59ddc3f9-1121-471e-8122-2efa5ceef92d">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://beta-review-cluster.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:3306/newreview_mig_1027</jdbc-url>
-      <driver-properties>
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="STAGE-NEW-REVIEW" group="STAGE" uuid="ab3e7add-1aa4-4a34-9c4a-3477bc0a833b">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.127.0.157:4131/</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="STAGE-REVIEW" group="STAGE" uuid="8cdaf8b4-9c95-4410-83fc-7318f74a70e5">
       <driver-ref>mysql.8</driver-ref>
