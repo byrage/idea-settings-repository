@@ -3,4 +3,7 @@
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
   <component name="LiveEditOptions" useJBChromeExtension="true" />
+  <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+  </component>
 </application>
