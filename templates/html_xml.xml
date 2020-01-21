@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="fif" value="&lt;#if &gt;" toReformat="false" toShortenFQNames="true">
+  <template name="fif" value="&lt;#if &gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="false" />
       <option name="ASPECTJ" value="false" />
