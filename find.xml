@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>Riders*Response.java</mask>
+    <option name="FILE_MASK" value="*Freemarker*" />
     <mask>*Response*</mask>
     <mask>list_normal.php</mask>
     <mask>*Service*</mask>
@@ -33,5 +33,6 @@
     <mask>*.gradle</mask>
     <mask>qna.ftl</mask>
     <mask>*.java</mask>
+    <mask>*Freemarker*</mask>
   </component>
 </application>
