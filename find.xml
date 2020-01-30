@@ -28,10 +28,10 @@
     <mask>build.gradle</mask>
     <mask>*.yml</mask>
     <mask>*Test*</mask>
-    <mask>*.gradle</mask>
     <mask>qna.ftl</mask>
     <mask>*.java</mask>
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
