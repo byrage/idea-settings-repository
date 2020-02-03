@@ -12,6 +12,7 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
@@ -101,6 +102,7 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="RestoreDefaultLayout" />
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -128,9 +130,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
