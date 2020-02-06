@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*Service*</mask>
     <mask>*Request*</mask>
     <mask>*Riders*</mask>
@@ -25,13 +26,13 @@
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
-    <mask>*.yml</mask>
     <mask>*Test*</mask>
     <mask>qna.ftl</mask>
-    <mask>*.java</mask>
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
