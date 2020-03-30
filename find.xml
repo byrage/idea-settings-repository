@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
-    <mask>*Service*</mask>
+    <option name="FILE_MASK" value="*-client.yml" />
     <mask>*Request*</mask>
     <mask>*Riders*</mask>
     <mask>*.conf</mask>
@@ -36,5 +35,6 @@
     <mask>*Controller*</mask>
     <mask>*Test*</mask>
     <mask>*.gradle</mask>
+    <mask>*-client.yml</mask>
   </component>
 </application>
