@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*Riders*</mask>
     <mask>*.conf</mask>
     <mask>*.json</mask>
@@ -29,11 +30,11 @@
     <mask>*.ftl</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*Controller*</mask>
     <mask>*Test*</mask>
     <mask>*-client.yml</mask>
     <mask>*.java*</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
