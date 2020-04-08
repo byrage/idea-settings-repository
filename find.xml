@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Riders*</mask>
+    <option name="FILE_MASK" value="*Configuration*" />
     <mask>*.conf</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
@@ -35,5 +35,6 @@
     <mask>*.java*</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
+    <mask>*Configuration*</mask>
   </component>
 </application>
