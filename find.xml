@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.conf</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
@@ -19,7 +20,6 @@
     <mask>*.py</mask>
     <mask>*Test.java</mask>
     <mask>logback*</mask>
-    <mask>*.xml</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
@@ -35,5 +35,6 @@
     <mask>*.gradle</mask>
     <mask>*Configuration*</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
