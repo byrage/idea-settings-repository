@@ -96,5 +96,17 @@
         <property name="zeroDateTimeBehavior" value="convertToNull" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="LIVE-NOTIFICATION" group="PROD" uuid="3f122608-85db-4eef-be30-45c7fff7dd68">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://notification-center.cluster-ro-cvqgfwbdqpys.ap-northeast-2.rds.amazonaws.com:6025</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="BETA-NOTIFICATION" group="BETA" uuid="cdce5fe8-4b56-44ab-89fe-fcdb30265b82">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://notification-center.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025</jdbc-url>
+    </data-source>
   </component>
 </application>
