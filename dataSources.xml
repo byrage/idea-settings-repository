@@ -108,5 +108,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://notification-center.cluster-ckwx7ipq1exp.ap-northeast-2.rds.amazonaws.com:6025</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="LOCAL-H2" group="STAGE" uuid="9613758a-24ed-4714-a6b9-1a176b8c3ad2">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:b715dbde-732c-439b-8e02-a563f3db99c3</jdbc-url>
+    </data-source>
   </component>
 </application>
