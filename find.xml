@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>spring.factories</mask>
@@ -25,7 +26,6 @@
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*Controller*</mask>
     <mask>*Test*</mask>
     <mask>*-client.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
