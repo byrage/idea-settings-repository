@@ -2,21 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
-    <mask>Riders*Response.java</mask>
-    <mask>*Response*</mask>
-    <mask>list_normal.php</mask>
-    <mask>*Service*</mask>
-    <mask>*Request*</mask>
-    <mask>*Riders*</mask>
-    <mask>*.conf</mask>
-    <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>spring.factories</mask>
-    <mask>*Controller*</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
     <mask>*gradle</mask>
@@ -27,13 +15,23 @@
     <mask>*.py</mask>
     <mask>*Test.java</mask>
     <mask>logback*</mask>
-    <mask>*.xml</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
     <mask>build.gradle</mask>
+    <mask>qna.ftl</mask>
+    <mask>*Freemarker*</mask>
+    <mask>*.ftl</mask>
+    <mask>*.js</mask>
+    <mask>*Controller*</mask>
     <mask>*Test*</mask>
-    <mask>*.java</mask>
-    <mask>*.yml</mask>
+    <mask>*-client.yml</mask>
+    <mask>*.java*</mask>
     <mask>*.gradle</mask>
+    <mask>*Configuration*</mask>
+    <mask>*.xml</mask>
+    <mask>*.vue</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*Controller*.java</mask>
   </component>
 </application>

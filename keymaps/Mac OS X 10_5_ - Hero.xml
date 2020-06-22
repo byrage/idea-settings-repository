@@ -12,13 +12,20 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Debug" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -101,6 +108,7 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="RestoreDefaultLayout" />
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -118,9 +126,11 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
+  <action id="TagDocumentationNavigation" />
   <action id="ThePlugin.Bamboo.RunBuild" />
   <action id="ThePlugin.ShowGlobalSettings" />
   <action id="ThePlugin.ShowHideMainToolWindow" />
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
@@ -128,5 +138,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="hg4idea.QFold" />
 </keymap>
