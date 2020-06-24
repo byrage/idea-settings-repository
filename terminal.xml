@@ -2,7 +2,5 @@
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
-    <option name="myShellIntegration" value="false" />
-    <option name="myShellPath" value="/usr/local/bin/zsh" />
   </component>
 </application>
