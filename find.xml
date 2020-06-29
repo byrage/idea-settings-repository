@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.sql</mask>
     <mask>spring.factories</mask>
     <mask>*Builder.java</mask>
@@ -28,12 +29,12 @@
     <mask>*Test*</mask>
     <mask>*-client.yml</mask>
     <mask>*.java*</mask>
-    <mask>*.gradle</mask>
     <mask>*Configuration*</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*Controller*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
