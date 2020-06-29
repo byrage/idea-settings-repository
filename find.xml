@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.sql</mask>
+    <option name="FILE_MASK" value="*sandbox*" />
     <mask>spring.factories</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
@@ -31,9 +31,10 @@
     <mask>*Configuration*</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*Controller*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
+    <mask>*sandbox*</mask>
   </component>
 </application>
