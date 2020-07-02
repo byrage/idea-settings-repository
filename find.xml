@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>spring.factories</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
     <mask>*gradle</mask>
@@ -35,5 +35,6 @@
     <mask>*.yml</mask>
     <mask>*sandbox*</mask>
     <mask>*.gradle</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
