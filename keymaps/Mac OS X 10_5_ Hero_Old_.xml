@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ Hero2" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ Hero(Old)" parent="Mac OS X 10.5+">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -11,6 +11,12 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorLookupDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="EditorLookupUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
@@ -38,6 +44,8 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GotoRelated" />
+  <action id="Jdbc.OpenEditor.Grid.DDL" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
