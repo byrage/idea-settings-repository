@@ -14,7 +14,7 @@
     </context>
   </template>
   <template name="todo" value="// TODO : hero.es $date$ - " description="" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="" defaultValue="date(&quot;Y-MM-d&quot;)" alwaysStopAt="false" />
+    <variable name="date" expression="" defaultValue="date(&quot;Y-MM-dd&quot;)" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
