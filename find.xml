@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Builder.java</mask>
+    <option name="FILE_MASK" value="*Param*" />
     <mask>*ItTest.groovy</mask>
     <mask>*gradle</mask>
     <mask>*Java</mask>
@@ -35,5 +35,6 @@
     <mask>*sandbox*</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
+    <mask>*Param*</mask>
   </component>
 </application>
