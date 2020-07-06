@@ -10,7 +10,6 @@
       <package name="static org.mockito" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="500" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DB2CodeStyleSettings version="0">
     <option name="myVersion" value="0" />
