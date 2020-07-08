@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="BmartSearchWorkerApplication" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="userdata" type="PLAIN_TEXT" />
       <mapping pattern="geo" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
