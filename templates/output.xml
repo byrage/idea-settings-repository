@@ -94,13 +94,19 @@
     </context>
   </template>
   <template name="ldton" value="LocalDateTime.of($date$)" description="LocalDateTime.of(now)" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;Y, M, d, H, m, s)" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;Y, M, d, H, m, s&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="cnn" value="Preconditions.checkNotNull($NAME$, &quot;$NAME$ required not null.&quot;);" description="Preconditions.checkNotNull" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ldon" value="LocalDate.of($date$)" description="LocalDate.of(now)" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;Y, M, d&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
