@@ -10,7 +10,7 @@
       <package name="static org.mockito" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="150" />
+  <option name="RIGHT_MARGIN" value="200" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DB2CodeStyleSettings version="0">
     <option name="myVersion" value="0" />
@@ -321,16 +321,6 @@
   <PHPCodeStyleSettings>
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
   </PHPCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
   <PostgresCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -367,20 +357,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </PostgresCodeStyleSettings>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <SQLiteCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
