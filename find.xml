@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
@@ -28,12 +29,12 @@
     <mask>*Controller*.java</mask>
     <mask>*.yml</mask>
     <mask>*sandbox*</mask>
-    <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*Param*</mask>
     <mask>*Controller.java*</mask>
     <mask>*Test*</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
