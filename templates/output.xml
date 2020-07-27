@@ -111,7 +111,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="atc" value="assertThatCode(() -&gt;  )&#10;                .isInstanceOf(.class);" toReformat="false" toShortenFQNames="true">
+  <template name="atc" value="assertThatCode(() -&gt;  )&#10;                .isInstanceOf(.class);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
