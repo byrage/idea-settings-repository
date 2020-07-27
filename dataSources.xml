@@ -12,5 +12,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.195.42.99:3306/billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="[PROD] BILLING" uuid="099fd4d9-28a1-4f77-95fa-f3e4e7d33adf">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://kakaomoment-billing.mydb.daumkakao.io:3306/billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+    </data-source>
   </component>
 </application>
