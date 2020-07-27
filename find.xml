@@ -31,7 +31,7 @@
     <mask>*Controller.java*</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*Test*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
