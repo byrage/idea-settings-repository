@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
     <mask>*.groovy</mask>
@@ -24,15 +23,15 @@
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*Controller*.java</mask>
-    <mask>*.yml</mask>
     <mask>*sandbox*</mask>
     <mask>*.properties</mask>
     <mask>*Param*</mask>
     <mask>*Controller.java*</mask>
     <mask>*Controller.java</mask>
-    <mask>*Test*</mask>
     <mask>*.java</mask>
     <mask>*Test*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*Test*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
