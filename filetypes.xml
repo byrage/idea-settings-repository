@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="BmartSearchWorkerApplication" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="userdata" type="PLAIN_TEXT" />
+      <mapping pattern="geo" type="PLAIN_TEXT" />
+      <mapping pattern="adfilter_servers_shopping_box_vimp_1" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="workerEnabled" type="PLAIN_TEXT" />
+      <mapping pattern="sadf" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
