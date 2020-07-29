@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test*" />
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
     <mask>*.groovy</mask>
@@ -31,7 +32,7 @@
     <mask>*.java</mask>
     <mask>*Test*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*Test*</mask>
     <mask>*.yml</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
