@@ -3,6 +3,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -69,6 +70,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="EmojiAndSymbols" />
   <action id="ExportToTextFile" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />

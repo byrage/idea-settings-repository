@@ -3,12 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
-    <mask>spring.factories</mask>
-    <mask>*Builder.java</mask>
-    <mask>*ItTest.groovy</mask>
-    <mask>*gradle</mask>
-    <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
     <mask>*.groovy</mask>
@@ -23,16 +17,21 @@
     <mask>*.ftl</mask>
     <mask>*.js</mask>
     <mask>*Controller*</mask>
-    <mask>*Test*</mask>
     <mask>*-client.yml</mask>
     <mask>*.java*</mask>
     <mask>*Configuration*</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
-    <mask>*.java</mask>
     <mask>*Controller*.java</mask>
     <mask>*sandbox*</mask>
-    <mask>*.gradle</mask>
+    <mask>*.properties</mask>
+    <mask>*Param*</mask>
+    <mask>*Controller.java*</mask>
+    <mask>*Controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*Test*.java</mask>
     <mask>*.yml</mask>
+    <mask>*Test*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
