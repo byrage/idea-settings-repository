@@ -30,8 +30,8 @@
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
     <mask>*Test*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.yml</mask>
     <mask>*Test*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
