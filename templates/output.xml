@@ -51,7 +51,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="methodsource" value="private static Stream&lt;Arguments&gt; name() {&#10;&#10;    return Stream.of(&#10;            Arguments.of()&#10;    );&#10;}" description="Junit5 method source template" toReformat="false" toShortenFQNames="true">
+  <template name="ms" value="private static Stream&lt;Arguments&gt; name() {&#10;&#10;    return Stream.of(&#10;            Arguments.of()&#10;    );&#10;}" description="Junit5 method source template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
