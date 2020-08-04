@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>spring.factories</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
@@ -30,8 +31,8 @@
     <mask>*.java</mask>
     <mask>*Controller*.java</mask>
     <mask>*sandbox*</mask>
-    <mask>*.gradle</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
