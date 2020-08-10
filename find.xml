@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>spring.factories</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
@@ -16,7 +17,6 @@
     <mask>logback*</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
-    <mask>build.gradle</mask>
     <mask>qna.ftl</mask>
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
@@ -33,5 +33,6 @@
     <mask>*Test*</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
