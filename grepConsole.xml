@@ -79,6 +79,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
