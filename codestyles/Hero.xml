@@ -318,9 +318,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </OracleCodeStyleSettings>
-  <PHPCodeStyleSettings>
-    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
-  </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -581,14 +578,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Oracle">
     <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
-  <codeStyleSettings language="PHP">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PostgreSQL">
     <option name="KEEP_LINE_BREAKS" value="false" />
