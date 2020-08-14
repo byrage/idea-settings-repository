@@ -111,13 +111,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="atc" value="assertThatCode(() -&gt;  )&#10;                .isInstanceOf(.class);" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="atbe" value="assertThatBillingException($body$);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="em" value="@ExtendWith(MockitoExtension.class)" description="@ExtendWith(MockitoExtension.class)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
