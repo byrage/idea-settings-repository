@@ -44,6 +44,7 @@
   </template>
   <template name="soutm" value="$MAP$.forEach((k,v)-&gt;System.out.println(&quot;key=&quot;+k+&quot;, value=&quot;+v));" description="Prints a Map to foreach type" toReformat="true" toShortenFQNames="true">
     <variable name="MAP" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="lnl" value="Lists.newArrayList($END$)" description="[Custom] Prints a new arraylist Method" toReformat="false" toShortenFQNames="true">
     <context>
