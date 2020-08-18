@@ -116,4 +116,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="im" value="@InjectMocks" description="@InjectMocks" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mm" value="@Mock" description="@Mock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
