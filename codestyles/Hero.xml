@@ -196,7 +196,6 @@
   </JSON>
   <JavaCodeStyleSettings>
     <option name="SPACE_BEFORE_OPENING_ANGLE_BRACKET_IN_TYPE_PARAMETER" value="true" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
       <value>
         <package name="java.awt" withSubpackages="false" static="false" />
