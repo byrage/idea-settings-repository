@@ -1,0 +1,15 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="http://crux-sonarqube.devel.kakao.com/" />
+          <option name="name" value="sonar" />
+          <option name="organization" value="" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

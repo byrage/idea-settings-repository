@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'dsp-billing'" />
+    <option name="defaultScopeName" value="Project 'dsp-billing'" />
+    <option name="SEARCH_SCOPE" value="Project 'dsp-billing'" />
     <mask>spring.factories</mask>
     <mask>*Builder.java</mask>
     <mask>*ItTest.groovy</mask>
