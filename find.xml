@@ -29,11 +29,11 @@
     <mask>*.java</mask>
     <mask>*Controller*.java</mask>
     <mask>*sandbox*</mask>
-    <mask>*.yml</mask>
     <mask>*.gradle</mask>
     <mask>*Test*</mask>
     <mask>*.http</mask>
     <mask>*.properties</mask>
     <mask>*TO*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
