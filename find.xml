@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*gradle</mask>
     <mask>*Java</mask>
     <mask>*Builder*</mask>
@@ -32,8 +33,8 @@
     <mask>*.gradle</mask>
     <mask>*Test*</mask>
     <mask>*.http</mask>
-    <mask>*.properties</mask>
     <mask>*TO*</mask>
     <mask>*.yml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
