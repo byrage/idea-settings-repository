@@ -1,15 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonarqube.woowa.in:8080" />
-          <token>df9bdfcbdf93df92df98df99dfcbdf9ddfccdf92df9cdfcfdf9ddf9edf92df98df92df99df9ddf92dfcfdf9bdf93dfcfdf9fdf9edf9bdf9bdf9ddf9ddfc9df99dfc9df93df98dfccdfcedf9adf9edfcf</token>
-          <option name="name" value="Woowahan Sonarqube" />
+          <option name="hostUrl" value="http://crux-sonarqube.devel.kakao.com/" />
+          <option name="name" value="sonar" />
+          <option name="login" value="admin" />
+          <password>dfcbdfcedfc7dfc3dfc4</password>
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
+    <rules />
   </component>
 </application>
