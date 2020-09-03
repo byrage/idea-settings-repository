@@ -1,12 +1,17 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.mysema.commons.lang.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="groovy.transform.Builder" />
     <EXCLUDED_PACKAGE NAME="groovy.transform.EqualsAndHashCode" />
     <EXCLUDED_PACKAGE NAME="groovy.transform.ToString" />
     <EXCLUDED_PACKAGE NAME="groovy.util.logging.Slf4j" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.BDDAssertions" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6BDDAssertions" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDate" />
     <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDateTime" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.Nested" />
