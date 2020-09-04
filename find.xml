@@ -5,7 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*gradle</mask>
+    <option name="FILE_MASK" value="*Repository*" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
@@ -35,5 +35,6 @@
     <mask>*TO*</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
+    <mask>*Repository*</mask>
   </component>
 </application>
