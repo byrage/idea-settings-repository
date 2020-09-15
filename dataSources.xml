@@ -18,5 +18,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-secure.daumkakao.io:13095/billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="[SANDBOX] ACCOUNT" uuid="445ef70d-0d8d-4b4f-b2aa-ba877aacf90c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dev-adp-account-my1.pg1.krane.9rum.cc:3306/account-sandbox</jdbc-url>
+    </data-source>
   </component>
 </application>
