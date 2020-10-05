@@ -7,7 +7,6 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test*" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
