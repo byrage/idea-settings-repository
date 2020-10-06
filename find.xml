@@ -7,6 +7,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
@@ -16,7 +17,6 @@
     <mask>logback*</mask>
     <mask>*ItTest.java</mask>
     <mask>*Config*</mask>
-    <mask>build.gradle</mask>
     <mask>qna.ftl</mask>
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
@@ -37,5 +37,6 @@
     <mask>*.properties</mask>
     <mask>*Repository*</mask>
     <mask>*Test*</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
