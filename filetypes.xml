@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="composer.lock" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="phpunit.xml.dist" type="XML" />
     </extensionMap>
   </component>
