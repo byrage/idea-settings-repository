@@ -4,9 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Java</mask>
@@ -36,8 +34,8 @@
     <mask>*TO*</mask>
     <mask>*.properties</mask>
     <mask>*Repository*</mask>
-    <mask>build.gradle</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
