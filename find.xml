@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
@@ -35,7 +33,7 @@
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*Repository*</mask>
-    <mask>*Test*</mask>
     <mask>build.gradle</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
