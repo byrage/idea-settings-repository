@@ -32,10 +32,10 @@
     <mask>*.gradle</mask>
     <mask>*.http</mask>
     <mask>*TO*</mask>
-    <mask>*.properties</mask>
     <mask>*Repository*</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
     <mask>build.gradle</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
