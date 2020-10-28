@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'api'" />
-    <option name="defaultScopeName" value="Module 'api'" />
-    <option name="SEARCH_SCOPE" value="Module 'api'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Java</mask>
     <mask>*Builder*</mask>
     <mask>*Test.groovy</mask>
