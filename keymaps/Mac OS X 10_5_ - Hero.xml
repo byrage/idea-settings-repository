@@ -36,6 +36,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl b" />
@@ -80,6 +83,9 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
@@ -90,6 +96,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GuiDesigner.CreateListener" />
+  <action id="Jdbc.OpenConsole.New.Generate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NextDiff">

@@ -16,7 +16,25 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-secure.daumkakao.io:13095/billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+      <jdbc-url>jdbc:mysql://db-secure.daumkakao.io:13097/billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="[SANDBOX] ACCOUNT" uuid="445ef70d-0d8d-4b4f-b2aa-ba877aacf90c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dev-adp-account-my1.pg1.krane.9rum.cc:3306/account-sandbox</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="일예산제어 지연" uuid="0dfd9038-a6ba-4f15-9152-c23c136dd813">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.195.24.1 :3306/moment</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="[SANDBOX] Secure DB" uuid="4bf0e934-8f80-4caf-b3bc-eab65d0b08f0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dev-adp-account-my1.pg1.krane.9rum.cc:3306/secure_billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
   </component>
 </application>
