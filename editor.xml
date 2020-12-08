@@ -7,6 +7,7 @@
     <EXCLUDED_PACKAGE NAME="groovy.transform.EqualsAndHashCode" />
     <EXCLUDED_PACKAGE NAME="groovy.transform.ToString" />
     <EXCLUDED_PACKAGE NAME="groovy.util.logging.Slf4j" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy.matcher.ElementMatchers" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes" />
