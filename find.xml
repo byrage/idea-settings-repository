@@ -28,10 +28,10 @@
     <mask>*.http</mask>
     <mask>*TO*</mask>
     <mask>*Repository*</mask>
-    <mask>*.yml</mask>
     <mask>build.gradle</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
     <mask>*Test*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
