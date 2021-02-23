@@ -34,7 +34,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://dev-adp-account-my1.pg1.krane.9rum.cc:3306/secure_billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.195.30.202:3306/keeping_billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
   </component>
 </application>
