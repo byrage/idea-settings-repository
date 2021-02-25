@@ -29,9 +29,9 @@
     <mask>*Repository*</mask>
     <mask>build.gradle</mask>
     <mask>*.properties</mask>
-    <mask>*.gradle</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
