@@ -36,5 +36,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.195.30.202:3306/keeping_billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="[SANDBOX] TAXBILL" uuid="4841f9f3-eb26-4332-9c1e-19949fff2d0c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.195.30.202:3306/taxbill?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+    </data-source>
   </component>
 </application>
