@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Builder*</mask>
+    <option name="FILE_MASK" value="*.MD" />
     <mask>*Test.groovy</mask>
     <mask>*.groovy</mask>
     <mask>*.py</mask>
@@ -33,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.gradle</mask>
+    <mask>*.MD</mask>
   </component>
 </application>
