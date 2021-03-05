@@ -38,9 +38,13 @@
           <option name="url" value="http://github.daumkakao.com" />
           <option name="userName" value="hero.es" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/b2/crux-billing-alert-bot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/personal" />
+    <option name="cloneParentDir" value="$USER_HOME$/project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
