@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.groovy</mask>
-    <mask>*.py</mask>
+    <option name="FILE_MASK" value="*Impl*" />
     <mask>*Test.java</mask>
     <mask>logback*</mask>
     <mask>*ItTest.java</mask>
@@ -33,5 +32,7 @@
     <mask>*.MD</mask>
     <mask>*QueryService*</mask>
     <mask>*.java</mask>
+    <mask>*Custom*</mask>
+    <mask>*Impl*</mask>
   </component>
 </application>
