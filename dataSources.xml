@@ -42,5 +42,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.195.30.202:3306/taxbill?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="[PROD] KEEPING-BILLING" read-only="true" uuid="c75a7688-0d1b-48bb-be65-460320de67f7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-secure.daumkakao.io:13097/keeping_billing?useSSL=false&amp;autoReconnect=true&amp;autoReconnectForPools=true</jdbc-url>
+    </data-source>
   </component>
 </application>
