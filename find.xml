@@ -26,7 +26,6 @@
     <mask>*Repository*</mask>
     <mask>build.gradle</mask>
     <mask>*.properties</mask>
-    <mask>*Test*</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.gradle</mask>
@@ -35,5 +34,6 @@
     <mask>*.java</mask>
     <mask>*Custom*</mask>
     <mask>*Impl*</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
