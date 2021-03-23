@@ -69,6 +69,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
@@ -132,11 +133,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBlankDiffWindow">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="StringManipulation.Group.SwitchCase">
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="ThePlugin.Bamboo.RunBuild" />
@@ -154,4 +159,5 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="hg4idea.QFold" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
 </keymap>
