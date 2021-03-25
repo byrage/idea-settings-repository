@@ -21,6 +21,7 @@
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.SafeHtml.Tag" />
     <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDate" />
     <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDateTime" />
+    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.AssertionsKt.assertAll" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.Nested" />
     <EXCLUDED_PACKAGE NAME="springfox.documentation.builders.PathSelectors.any" />
     <EXCLUDED_PACKAGE NAME="springfox.documentation.builders.RequestHandlerSelectors.any" />
