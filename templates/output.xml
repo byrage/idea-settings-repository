@@ -135,4 +135,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="assertall" value="SoftAssertions.assertSoftly(softly -&gt; {&#10;    softly.assertThat($BODY$)&#10;});" description="SoftAssertions.assertSoftly" toReformat="false" toShortenFQNames="true">
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
