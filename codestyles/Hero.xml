@@ -317,16 +317,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </OracleCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
   <PostgresCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -363,20 +353,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </PostgresCodeStyleSettings>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <SQLiteCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -539,9 +515,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
