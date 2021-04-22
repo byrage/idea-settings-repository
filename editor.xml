@@ -11,6 +11,7 @@
     <EXCLUDED_PACKAGE NAME="net.bytebuddy.matcher.ElementMatchers" />
     <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.piccolo.xml.EntityManager" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes.assertThatCode" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.BDDAssertions" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
