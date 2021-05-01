@@ -141,7 +141,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="nt" value="@Nested&#10;class $BODY$ {&#10;    @Test &#10;    public void test(){&#10;        &#10;    }&#10;    &#10;}" description="nested testt" toReformat="false" toShortenFQNames="true">
+  <template name="nested" value="@Nested&#10;class $BODY$ {&#10;    @Test &#10;    public void test(){&#10;        &#10;    }&#10;    &#10;}" description="nested testt" toReformat="false" toShortenFQNames="true">
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
