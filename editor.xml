@@ -27,6 +27,9 @@
     <EXCLUDED_PACKAGE NAME="springfox.documentation.builders.PathSelectors.any" />
     <EXCLUDED_PACKAGE NAME="springfox.documentation.builders.RequestHandlerSelectors.any" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Source Code Pro" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
