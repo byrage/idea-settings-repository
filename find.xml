@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Test Files" />
-    <option name="defaultScopeName" value="Project Test Files" />
-    <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
     <mask>*Test.java</mask>
     <mask>logback*</mask>
     <mask>*ItTest.java</mask>
