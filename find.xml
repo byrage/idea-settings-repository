@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller*" />
     <mask>*Test.java</mask>
     <mask>logback*</mask>
     <mask>*ItTest.java</mask>
@@ -13,7 +14,6 @@
     <mask>*Freemarker*</mask>
     <mask>*.ftl</mask>
     <mask>*.js</mask>
-    <mask>*Controller*</mask>
     <mask>*-client.yml</mask>
     <mask>*.java*</mask>
     <mask>*Configuration*</mask>
@@ -35,5 +35,6 @@
     <mask>*Custom*</mask>
     <mask>*Impl*</mask>
     <mask>*Test*</mask>
+    <mask>*Controller*</mask>
   </component>
 </application>
