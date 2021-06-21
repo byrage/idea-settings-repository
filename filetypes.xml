@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping ext="20210512" type="PLAIN_TEXT" />
@@ -8,8 +10,6 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="20201210" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
